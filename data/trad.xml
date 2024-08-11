@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body xml:id="critical_translation_body" xml:lang="en">
+         <div type="chapter" n="35" xml:id="c35_tr35">
+            <head><hi rend="bold">#35</hi>
+            <lb/>
+               <seg xml:id="c35_tr35_p1" n="1">Here is described the city of <placeName
+                     ref="#camandi">Qamadin</placeName></seg>
+            </head>
+
+            <p xml:id="c35_tr35_par1" n="1">
+               <seg xml:id="c35_tr35_p2" n="2">And after having gone downhill for those two days as
+                  I told you, you find a large plain, <hi rend="italic">which extends(?) five days
+                        <term ref="#midi">southhward</term>,</hi> and at the beginning of this plain
+                  there is a city called <placeName ref="#camandi">Qamadin</placeName>, which was
+                  once very big and very noble, but is now no longer so, because the <term
+                     ref="#tartars">Tartars</term> from another country have ravaged it on several
+                  occasions. And I tell you that it is very hot in the plain. And the province we
+                  are now beginning to describe is called <placeName ref="#reobar"
+                     >Reobar</placeName>. </seg>
+               <seg xml:id="c35_tr35_p3" n="3"> Its fruits are <term ref="#dattal">dates</term> and
+                     <term ref="#pomeParais">apples of paradise</term> and <term ref="#pistac"
+                     >pistachios</term> and many other fruits that are not found in our cold
+                  regions. And in this plain there is a species of bird called ‘<term
+                     ref="#francolin">francolins</term>’, which are different from the francolins of
+                  other countries: they are of mixed colour, black and white, and they have
+                  red-coloured feet and beak. <seg rend="italic">It produces wheat and barley and
+                     other cereals. On the slopes of the mountains that surround that plain there
+                     are pomegranates, cedars and many other fruits and apples which do not grow in
+                     our cold regions; countless turtledoves live there, on account of the many
+                     berries they find there to eat; the turtledoves are really numerous, but the
+                        <term ref="#saracinz">Saracens</term> never eat them, because they abhor
+                     them. In those parts there are also <term ref="#faicain">pheasants</term> and
+                        <term ref="#francolin">francolins</term> and many other birds.</seg></seg>
+               <seg xml:id="c35_tr35_p4" n="4">The cattle are different too, and first of all I
+                  shall tell you of the <term ref="#buef">oxen</term>. The <term ref="#buef"
+                     >oxen</term> are very big and all white as snow; their hair is short and flat,
+                  and this is due to the heat of the region; their horns are short and thick and not
+                  pointed; between the shoulders they have a round hump two palms high: they are the
+                  most beautiful thing in the world to look at. And when you want to load them, they
+                  squat as <term ref="#giamiaus">camels</term> do; and when you load them, they
+                  stand up and carry their loads very well, because they are very strong
+                  indeed.</seg>
+               <seg xml:id="c35_tr35_p5" n="5">There are also as big as donkeys, and their tails are
+                  so thick and wide that they weigh thirty pounds <seg rend="italic">and even
+                     more</seg>; they are very beautiful and fat and good to eat.</seg>
+               <seg xml:id="c35_tr35_p6" n="6">In this plain there are many fortified cities and
+                  towns that have high and thick earthen walls to defend the inhabitants from the
+                     <term ref="#caraunas">Qara’unas</term>, the marauders who carry out raids on
+                  those lands. And why are they called <term ref="#caraunas">Qara’unas</term>?
+                  Because their mothers are <term ref="#yndien">Indians</term> and their fathers
+                     <term ref="#tartars">Tartars</term>.</seg>
+               <seg xml:id="c35_tr35_p7" n="7">And these marauders, when they want to carry out
+                  raids across the country and pillage, are able to make the day dark with their
+                  enchantments supported by the devil’s work, to the extent that, if one traveller
+                  is not close to another, he can no longer see him; and they make this darkness
+                  last for a good seven <term ref="#journee">days</term>.</seg>
+               <seg xml:id="c35_tr35_p8" n="8">They know their territory very well. Once darkness
+                  has been made to fall, they ride side by side, and sometimes they are ten thousand
+                  men, sometimes more, sometimes less, and in this way they occupy the whole plain
+                  in which they intend to carry out their raids, and nothing that they meet along
+                  the plain can escape being plundered, whether it be men, cattle or goods/objects.
+                  And once the <term ref="#caraunas">qara’unas</term> have captured men, they kill
+                  all the old ones and take away the young and sell them as slaves.</seg>
+               <seg xml:id="c35_tr35_p9" n="9">Their king is called <persName ref="#nogodar"
+                     >Nogodar</persName>. And this <persName ref="#nogodar">Nogodar</persName> went
+                  to the court of <persName ref="#ciagatai">Chaghadai</persName>, who was a brother
+                  of the <term ref="#grantKaan">Great Khan</term>, with fully ten thousand men of
+                  his own people, and remained with him, because <persName ref="#ciagatai"
+                     >Chaghadai</persName> was his uncle and a great sovereign; and while staying
+                  with him, <persName ref="#nogodar">Nogodar</persName> conceived and implemented a
+                  plan of great evil, and I shall tell you how.</seg>
+               <seg xml:id="c35_tr35_p10" n="10">He left the court of his uncle <persName
+                     ref="#ciagatai">Chaghadai</persName>, who was in <placeName
+                     ref="#grandeArminie">Greater Armenia</placeName>, and ran away with ten
+                  thousand of his men, who were very cruel and wicked, and crossed <placeName
+                     ref="#badascian">Badakhshan</placeName> and a province called <placeName
+                     ref="#pasciai">Pashai</placeName> and another one called <placeName
+                     ref="#kesimur">Kashmir</placeName>, where he lost many of his men and beasts
+                  because of the impenetrable and dangerous paths.</seg>
+               <seg xml:id="c35_tr35_p11" n="11">And after passing through all these provinces,
+                     <persName ref="#nogodar">Nogodar</persName> and his men entered <placeName
+                     ref="#ynde">India</placeName>, within the borders of a province called
+                     <placeName ref="#dilivar">Dilivar</placeName>, and conquered a noble city
+                  called <placeName ref="#diliDilivar">Dehli</placeName>. And <persName
+                     ref="#nogodar">Nogodar</persName> took up residence in that city and in that
+                  kingdom, which he had taken from a very rich and powerful king named <persName
+                     ref="#asidinSoldan">Ghiyath al-Din</persName>. And <persName ref="#nogodar"
+                     >Nogodar</persName> lives there with his people, and he is not afraid of
+                  anyone: he wages war against all the other <term ref="#tartars">Tartars</term> who
+                  live in the lands surrounding his kingdom. <seg rend="italic">And in order to
+                     know what this name ‘<term ref="#caraunas">Qara’unas</term>’ means, I will
+                     begin by telling you that a certain <persName ref="#nogodar"
+                     >Nogodar</persName>, who was grandson of <persName ref="#ciagatai"
+                        >Chaghadai</persName> (the brother of the <term ref="#grantKaan">Great
+                        Khan</term>, who ruled <placeName ref="#grantTurquie">Greater
+                        Turkey</placeName>), while staying at his uncle’s court, began plotting to
+                     gain power: and therefore, having learned that in <placeName ref="#ynde"
+                        >India</placeName> there was a province called <placeName ref="#melibar"
+                        >Malabar</placeName>, not subject to dominion by the <term ref="#tartars"
+                        >Tartars</term> and governed by a king called <persName ref="#asidinSoldan"
+                        >Ghiyath al-Din</persName>, he took away about ten thousand men among those
+                     he thought were the most ferocious and cruel, and with them he left his uncle
+                        <persName ref="#ciagatai">Chaghadai</persName>’s court, without him
+                     suspecting anything. He crossed <placeName ref="#badascian"
+                        >Badakhshan</placeName> and then a province called <placeName ref="#kesimur"
+                        >Kashmir</placeName>, where he lost many of his men and beasts because of
+                     impenetrable and dangerous paths, and eventually entered the province of
+                     <placeName ref="#melibar"
+                        >Malabar</placeName> and conquered a city called <placeName ref="#diliDilivar">Dehli</placeName> by force, and wrested many other
+                     surrounding cities from <persName ref="#asidinSoldan"
+                        >Ghiyath al-Din</persName>, having caught him off guard. <persName ref="#nogodar"
+                           >Nogodar</persName>
+                     therefore began to reign in those lands, and the white <term ref="#tartars">Tartars</term> began to mix
+                     with the dark-skinned Indian women, and these women conceived children who were
+                     called ‘<term ref="#caraunas">Qara’unas</term>’, that is to say, in their language, ‘mixed’: and they are
+                     precisely those marauders who carry out raids on the villages of <placeName ref="#reobar">Reobar</placeName> and
+                     also on other lands, as best they can. And as soon as they arrived in <placeName ref="#melibar"
+                        >Malabar</placeName>
+                     they learned the magical and diabolical arts, thanks to which they are able to
+                     make darkness fall and to make the day dark, so that, if you are not close to
+                     your companion, it is impossible for you to see him; and every time they want
+                     to carry out raids they make such enchantments, so that people do not notice
+                     them. And they ride for thirty or forty <term ref="#journee">days</term>, and mostly towards the land of
+                     <placeName ref="#reobar">Reobar</placeName>, and this is the reason why: in winter, all the merchants who come to
+                     trade in <placeName ref="#curmos">Hormuz</placeName>, if they have news of the arrival of merchants from <placeName ref="#ynde">India</placeName>, send
+                     the <term ref="#mul">mules</term> and <term ref="#giamiaus">camels</term>, which have become lean from the long journey, to the
+                     plain of <placeName ref="#reobar">Reobar</placeName>, where they can fatten thanks to the abundance of fodder: and
+                     the <term ref="#caraunas">Qara’unas</term>, who pay attention to these movements, go and plunder everything,
+                     and capture men and sell them. However, if the prisoners can ransom themselves,
+                     the <term ref="#caraunas">Qara’unas</term> let them go.</seg></seg>
+               <seg xml:id="c35_tr35_p12" n="12">Now I have told you of this plain and the people
+                  who make darkness fall in order to plunder. And I tell you that Messer <persName ref="#marcoPolo"
+                     >Marco</persName>
+                  himself risked being captured by those people in that darkness, but escaped to a
+                  fortified city called <placeName ref="#canosalmi"
+                     >Canosalmi</placeName>; and many of his companions were captured and
+                  sold, and some of them were killed. Now we shall tell you of other things.
+               </seg></p>
+         </div>
+      </body>
+   </text>
+</TEI>

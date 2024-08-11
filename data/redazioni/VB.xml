@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>VB</title>
+                <respStmt>
+                    <resp>Edited by</resp>
+                    <name xml:id="eugenio">Eugenio Burgio</name>
+                    <name xml:id="samuela">Samuela Simion</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Project coordination by</resp>
+                    <name ref="#eugenio">Eugenio Burgio</name>
+                    <name xml:id="marina">Marina Buzzoni</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Text modelling and encoding by</resp>
+                    <name xml:id="elisa">Elisa Cugliana</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Software developing by</resp>
+                    <name xml:id="chiara">Chiara Martignano</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body xml:id="v_VB_body" xml:lang="it">
+            <div type="chapter" xml:id="c34_VB22" n="22" corresp="#c34_tr34 #c35_tr35 #c36_tr36">
+                
+                
+                <p n="1" xml:id="c34_VB22_par1"><hi rend="bold">#22</hi>
+                    <lb/>
+                    <seg xml:id="c34_VB22_p1" n="1">
+                        <placeName ref="#crermain">‹C›reman</placeName> è regname fo conquistato dal <term
+                            ref="#grantKaan">Gran Tartaro</term> et tollto a uno segnore de chui per
+                        eredità era. </seg>
+                    <seg xml:id="c34_VB22_p2" n="2">In questo reame ve naschon la çoia chiamata <term
+                        ref="#torchoise">turchexe</term>: et tròvasene abundantemente e trovase nele
+                        montagne. </seg>
+                    <seg xml:id="c34_VB22_p3" n="3">Trovase ecian in quele montagne vena de <term
+                        ref="#acer">açalle</term> el mior abia el mondo, per che lì se lavora le mior
+                        armadure d’ogni sorta a llor modo che abia tutte quelle provincie. </seg>
+                    <seg xml:id="c34_VB22_p4" n="4">Le done loro lavorano meio de opera de ago che alltre
+                        done abia quelle parte, l’opere dille qual per tute quelle parte fino portatte. </seg>
+                    <seg xml:id="c34_VB22_p5" n="5"> Naschono in quelle montagne<term
+                        ref="#fauchonPellerin"> falchoni pelegrini</term> i più volanti e miori fiano
+                        trovati in quelle provincie, i qual sono menori alquanto de questi nostri de qui;
+                        et sono rosi nel peto et soto la coda apreso la cosa. </seg>
+                    <seg xml:id="c34_VB22_p6" n="6">Partendo da <placeName ref="#crermain"
+                        >Creman</placeName> chàpitase a una montagna ch’è molto rata. </seg>
+                    <seg xml:id="c34_VB22_p7" n="7">Chavalchato però çornade .VII., nel qual chamino se
+                        trova belissime abitaciun et beliseme chaçason, è bellissimo chavalchare per fino
+                        alla montagna dita, la qual è sì ria de|sexa |233v| che se coven dismontar a
+                        piedi. </seg>
+                    <seg xml:id="c34_VB22_p8" n="8">Trovase molte maniere de fruti; et antigamente tuta
+                        era abitada, ma de pressente è tutta desperssa et sollo ve abita çente con i llor
+                        bestiami per i pascholi. </seg>
+                    <seg xml:id="c34_VB22_p9" n="9"> Dalla dita citade de <placeName ref="#crermain"
+                        >Creman</placeName> fina a questa montagna v’è gran fredura l’inverno; e
+                        dificelle chossa è l’inverno poder passar, e chi non sono ben forniti de <term
+                            ref="#drap">pani</term> e fodre di fredo pereria.</seg>
+                </p>
+                <p n="2" xml:id="c35_VB22_par2">
+                    <seg xml:id="c35_VB22_p10" n="10">Trovasse lie <term ref="#buef">buò</term>
+                        bianchissimi: àno churto el pello, àno le corne churte e grose e pontide, et nela
+                        spalla àno un segno retondo ben per .III. palmi ch’è bellisima cosa a vederlli. </seg>
+                    <seg xml:id="c35_VB22_p11" n="11">E quando si cargano stano chufadi in tera chome
+                        fano i <term ref="#giamiaus">ganbelli</term>, e chargati se lievano in piedi:
+                        portano gran chargo perché sono fortissimi e grandi. </seg>
+                    <seg xml:id="c35_VB22_p12" n="12">Ànno la choda grossisima – chome ànno i <term
+                        ref="#monton">chastroni</term> di <placeName ref="#tartaria"
+                            >Tartaria</placeName> – et, al mio iudicio, di pexo de libre .XXX. e bonissima
+                        da mangiare. </seg>
+                    <seg xml:id="c35_VB22_p13" n="13">In questo piano v’è molte forteçe: àno i llor muri
+                        di terra per difexa loro; e chiamasi questa çente <term ref="#caraunas"
+                            >Caraor</term>, che tanto vene a dire chome in nostra lengua <term
+                                ref="#guasmul">gasmulli</term> over bastardi, però che antigamente i sono
+                        desesi per madre de dona d’<placeName ref="#ynde">India</placeName> e per padre
+                        <term ref="#tartars">tartaro</term>. </seg>
+                    <seg xml:id="c35_VB22_p14" n="14">È mallissima e prava çeneracione de robatori e
+                        negromanti: intanto quando volle andar a robar, i fano oschurar el solle et,
+                        oschurato, non se vedendo quaxi lume, essendo loro avixati d’i paexi, entrano nei
+                        chaxali e vile e robano; et quanta giente trovano pigliano, e vechi sença nulla
+                        piatà tuti alcideno, i çoveni vendeno. </seg>
+                    <seg xml:id="c35_VB22_p15" n="15"> Era segnor di questa giente <persName
+                        ref="#nogodar">Nogador</persName>, homo de grandissimo animo, el qualle,
+                        raunatto .Xm. d’i suo’ crudelisimi et animosi homeni, deliberò andare a vixitar
+                        <persName ref="#ciagatai">Gragatin</persName>, el qual era suo parente e
+                        fratello del <term ref="#grantKaan">Gran Chan</term>, segnor de una nobelle provincia. </seg>
+                    <seg xml:id="c35_VB22_p16" n="16">E demorado con lui per algun tenpo, adoperò per
+                        modo ch’el desvià .Xm. omeni d’arme dela più fiorita brigata avese <persName
+                            ref="#ciagatai">Gragatin</persName> suo parente, et con questi .XXm. valorosi
+                        et audaci omeni se ne fuçì. </seg>
+                    <seg xml:id="c35_VB22_p17" n="17">E usiti del’<placeName ref="#GrandeArmenie">Armenia
+                        Grande</placeName>, feno el transito suo per <placeName ref="#badascian"
+                            >Badaxian</placeName>, per una alltra provincia chiamata <placeName
+                                ref="#pasciai">Pastiax</placeName>, et dapoi a una provincia chiamata
+                        <placeName ref="#kesimur">Chesiemir</placeName>. </seg>
+                    <seg xml:id="c35_VB22_p18" n="18">Quivi perdete molte dele suo’ brigatte per le malle
+                        vie et streti passi; e conquistato ch’ebe tute dite provincie, entrò
+                        nel’<placeName ref="#ynde">India</placeName> alle confine de <placeName
+                            ref="#dilivar">Delimar</placeName>. </seg>
+                    <seg xml:id="c35_VB22_p19" n="19">E quivi prese una nobel citade chiamata <placeName
+                        ref="#diliDilivar">Delindinar</placeName> et in quella demorò e fermòsse con
+                        l’oste soa. </seg>
+                    <seg xml:id="c35_VB22_p20" n="20">Trovato quella de inestimabelle richeça, chaçato di
+                        quella el re <persName ref="#asidinSoldam">Sidin Soboan</persName>, mesese in la
+                        dita citade in reposso façendo far guera per le soe gente a’ <term ref="#tartars"
+                            >Tartari</term> che dimorano in quelli paexi; per le qual giente de <persName
+                                ref="#nogodar">Nogador</persName> tuto quel paexe era in guera e lle strade
+                        rotte. </seg>
+                    <seg xml:id="c35_VB22_p21" n="21">Per modo che io, <persName ref="#marcoPolo"
+                        >Marcho</persName>, da quella giente fui quaxi preso, ma io, con grandissima
+                        presteça, me redusi in uno chastello chiamato <placeName ref="#canosalmi"
+                            >Salimi</placeName> e fui salvo.</seg>
+                </p>
+                <p n="3" xml:id="c36_VB22_par3">
+                    <seg xml:id="c36_VB22_p22" n="22">È da sapere che questo piano dura per .V. <term
+                        ref="#journee">giornate</term>, et alla fin del dito piano, se trova un’altra
+                        vallada che se coven andar a piedi çercha .XX. <term ref="#mil">miglia</term>. </seg>
+                    <seg xml:id="c36_VB22_p23" n="23">Et in quella desexa è molto ria via, et trovassi
+                        molta malla giente e robatori. </seg>
+                    <seg xml:id="c36_VB22_p24" n="24"> Et deseso sì se trova un bellisimo piano chiamato
+                        el <placeName ref="#formose">Piano de Formose</placeName> et dura alla longa .II.
+                        <term ref="#journee">giornate</term>; trovase molto belle rivere, et abondancia
+                        de <term ref="#dattal">datalli</term>. </seg>
+                    <seg xml:id="c36_VB22_p25" n="25">È nobelisimo paise de oxelli e <term ref="#fauchon"
+                        >falchoni</term>: sono <term ref="#papagaus">papagalli</term> assai et alltri
+                        ocelli sença numero. </seg>
+                    <seg xml:id="c36_VB22_p26" n="26">Et in chapo de dita pianura, per .II. <term
+                        ref="#journee">giornate</term>, alla longa si trova el <placeName
+                            ref="#merOsiane">Mar Oçeano</placeName> e sula riva del mare ène una cità
+                        chiamata <placeName ref="#curmos">Cormes</placeName> la qual citade à porto sopra
+                        el mare. </seg>
+                    <seg xml:id="c36_VB22_p27" n="27">Et a questo porto vi chapita molte nave
+                        d’<placeName ref="#ynde">India</placeName> co’ le lor marchadantie, <term
+                            ref="#especeries">specie</term> assai et ancor çoie et <term ref="#drap"
+                                >pani</term> de <term ref="#soie">seta</term> e d’<term ref="#or">oro</term>
+                        assai, le qual i vendeno a marchadanti che demorano nela dita çità, le qual dapo’
+                        i portano in alltre provincie, per che la ditta cità è abondante de marchadantie. </seg>
+                    <seg xml:id="c36_VB22_p28" n="28">À soto de sì molte citade et chastelli et è
+                        principio de uno reame chiamato<placeName ref="#ruemedanAcomat"> Comaeda
+                            Acomant</placeName>. </seg>
+                    <seg xml:id="c36_VB22_p29" n="29">E lì è la gran chalura et è terra ferma, e sse
+                        nella dita çità morisse uno forestiero, el Segnor ge fa tuor tuta la soa roba. </seg>
+                    <seg xml:id="c36_VB22_p30" n="30">Nella dita cità se ussano <term ref="#vin"
+                        >vino</term> de <term ref="#dattal">datalli</term>, el qual è molto lasativo a
+                        chi non el beve assai moderatamente: è dilletevolle <term ref="#vin">vino</term>
+                        achonpagniato con mollte <term ref="#especeries">specie</term> et è molto ato ad
+                        ingrassare. </seg>
+                    <seg xml:id="c36_VB22_p31" n="31">Non mangiano pane perché quello par i sia malsano. </seg>
+                    <seg xml:id="c36_VB22_p32" n="32"> Mançano <term ref="#dattal">datalli</term>; usano
+                        per sanità a mangiare pese sallado e çevolle, che qui da nui è cibo malsano. </seg>
+                    <seg xml:id="c36_VB22_p33" n="33">Le nave suo’, i magieri sono chusiti con corde fate
+                        de <term ref="#nocesInde">noxe d’India</term>, che sono molto durevele al mare; e
+                        tal chorde non facilmente dal’aqua salsa fino guaste. </seg>
+                    <seg xml:id="c36_VB22_p34" n="34">Sono molto pericholloxe nave perché non sono
+                        chalchate et de quelle molte ne periseno: sono nave discoperte e chargo i àno;
+                        quelle i chopreno le marchadantie de chuori e po’ de sopra si metono et chargano
+                        de’ <term ref="#chevauz">chavalli</term> e portano in <placeName ref="#ynde"
+                            >India</placeName> dove bene i se vendeno. </seg>
+                    <seg xml:id="c36_VB22_p35" n="35">Non àno feri da sorçer, ma con altri |234r| suo’
+                        strumenti sorçeno e però con ogni lieve fortuna perischono. </seg>
+                    <seg xml:id="c36_VB22_p36" n="36"> I abitanti sono negri che adorano <persName
+                        ref="#maomet">Machometo</persName>. </seg>
+                    <seg xml:id="c36_VB22_p37" n="37">Et nel’instate per el grande chaldo non abitano
+                        nele citade però che tuti pereriano, ma vano cerchando le reviere del mare, per
+                        aver più tenperatto aere. </seg>
+                    <seg xml:id="c36_VB22_p38" n="38"> Et ussano lie un vento che vien sopra la tera che,
+                        per la gran chalura de quello, tuti pereriano di chaldo; ma essendo loro aloçati
+                        sopra le rive del mare e dei fiumi, subito i ssentono el vento venire, i sse
+                        meteno nell’aqua chome fano le rane: e per questo modo chanpano la grandeça del
+                        chaldo. </seg>
+                    <seg xml:id="c36_VB22_p39" n="39"> Le semençe suo’ convene esser semenate del mese de
+                        novenbre et piantate: el richolto suo è del mese de março et chossì àno tuti li
+                        lor fruti. </seg>
+                    <seg xml:id="c36_VB22_p40" n="40"> Dei altri messi non àno nulla per la chalura del
+                        dito vento che arde e secha tuto. </seg>
+                    <seg xml:id="c36_VB22_p41" n="41"> Ongieno le lor nave con ollio de pese perché non
+                        àno <term ref="#peces">pegolla</term>. </seg>
+                    <seg xml:id="c36_VB22_p42" n="42">Quando morino alchuno d’i soi ussano fare gran
+                        pianto, et massime le femene che àno per chostume piangere ogni dì una fiata per
+                        fino ad anni .IIII. </seg>
+                </p>
+            </div>
+            
+            
+        </body>
+    </text>
+</TEI>

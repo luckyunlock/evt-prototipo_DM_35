@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Z</title>
+                <respStmt>
+                    <resp>Edited by</resp>
+                    <name xml:id="eugenio">Eugenio Burgio</name>
+                    <name xml:id="samuela">Samuela Simion</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Project coordination by</resp>
+                    <name ref="#eugenio">Eugenio Burgio</name>
+                    <name xml:id="marina">Marina Buzzoni</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Text modelling and encoding by</resp>
+                    <name xml:id="elisa">Elisa Cugliana</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Software developing by</resp>
+                    <name xml:id="chiara">Chiara Martignano</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body xml:id="v_Z_body" xml:lang="la">
+            <div type="chapter" n="13" xml:id="c35_Z13" corresp="#c35_tr35">
+                
+                <p n="1" xml:id="c35_Z13_par1">
+                    <hi rend="bold">#13</hi>
+                    <lb/>
+                    <seg xml:id="c35_Z13_p1" n="1">Cum desensum est per istas duas <term ref="#journee">dietas</term>, invenitur
+                        quedam planicies magna, que versus <term ref="#midi">meridiem</term> durat per .V.
+                        <term ref="#journee">dietas</term>. </seg>
+                    <seg xml:id="c35_Z13_p2" n="2">In principio istius planiciei est quedam civitas
+                        nomine <placeName ref="#camandi">Camadi</placeName>, que iam fuit nobilis civitas
+                        et magna valde, sed nunc non sic. </seg>
+                    <seg xml:id="c35_Z13_p3" n="3">Planicies vero calidissima est; producit frumentum et
+                        alia blada. </seg>
+                    <seg xml:id="c35_Z13_p4" n="4"> Nascuntur poma
+                        granata, citrana |9v| et multi alii fructus
+                        et poma, que in nostris partibus frigidis non nascuntur. </seg>
+                    <seg xml:id="c35_Z13_p5" n="5">Conversantur ibi turtures
+                        infiniti, propter multas pomelas quas ibi inveniunt ad
+                        edendum; et sunt sine numero, nec <term ref="#saracinz">saraceni</term> de eis
+                        comedunt unquam, quia eos aborrent. </seg>
+                    <seg xml:id="c35_Z13_p6" n="6">Inveniuntur et ibi <term ref="#faicain"
+                        >fassiani</term>, <term ref="#francolin">franculini</term> et alie aves
+                        multe.</seg>
+                </p>
+            </div>
+            
+            <div type="chapter" n="14" xml:id="c35_Z14" corresp="#c35_tr35 #c36_tr36 #c37_tr37">
+                
+                
+                <p n="1" xml:id="c36_Z14_par1">
+                    <hi rend="bold">#14</hi>
+                    <lb/>
+                    <seg xml:id="c36_Z14_p1" n="1">Nota quod super riperiam maris ‹est› civitas quedam
+                        nomine <placeName ref="#curmos">Cormos</placeName>, que portum habet; ad quam
+                        civitatem mercatores de diversis <placeName ref="#ynde">Indye</placeName> partibus
+                        navigantes cum omnibus <term ref="#especeries">aromatibus</term>, lapidibus
+                        preciosis, <term ref="#perles">perlis</term>, <term ref="#drap">drapis</term>
+                        aureis et syriceis, dentibus <term ref="#leofans">elephantum</term>
+                        et aliis mercimoniis multis aplicant universi. </seg>
+                    <seg xml:id="c36_Z14_p2" n="2">Et sub se habet civitates et castra. </seg>
+                    <seg xml:id="c36_Z14_p3" n="3"> Ibi calor est intensissimus et terra multum infirma. </seg>
+                    <seg xml:id="c36_Z14_p4" n="4"> Si vero aliquem mercatorem alienigenam ibi mori
+                        contingat, dominus terre totum eius thesaurum sibi accipit et reponit. </seg>
+                    <seg xml:id="c36_Z14_p5" n="5"> Ibi est intenssissimus calor, quod ex arena quidam
+                        ventus prorumpit tam fervens et calidus, quod, ex nimio estu vetans homini
+                        respirare, ipsum subito sufocat et occidit; a quo nullus, si inveniatur in arido,
+                        evadere potest. </seg>
+                    <seg xml:id="c36_Z14_p6" n="6"> Ideo, cum ventum sentiunt, se supponunt aquis usque
+                        ad mentum et sic mora‹n›tur quousque ventus desistit. </seg>
+                    <seg xml:id="c36_Z14_p7" n="7"> Naves vero de <placeName ref="#curmos"
+                        >Cormos</placeName> pessime sunt et periculose, quia sepius naufragantur: quia
+                        non affiguntur cum clavis. </seg>
+                    <seg xml:id="c36_Z14_p8" n="8">Quia lignum est durum, cuiusdam complexionis fragilis
+                        ad modum vasis fictilis; quia, statim cum infingitur, clavis in se confringitur. </seg>
+                    <seg xml:id="c36_Z14_p9" n="9"> Sed finguntur claviculis de ligno; deinde ligant vel
+                        suunt cum fillo groso. </seg>
+                    <seg xml:id="c36_Z14_p10" n="10"> Utuntur uno albere et ‹habent› unum amplustre. </seg>
+                    <seg xml:id="c36_Z14_p11" n="11"> Gentes ille sunt nigre et legem <persName
+                        ref="#maomet">Macometi</persName> observant. </seg>
+                    <seg xml:id="c36_Z14_p12" n="12">Frumentum |10r| et alia blada serunt de mense
+                        novembris, et de mense marcii ipsa recoligunt. </seg>
+                    <seg xml:id="c36_Z14_p13" n="13">
+                        <term ref="#dattal">Datali</term> coliguntur in abundantia, et ex ipsis fit <term
+                            ref="#vin">vinum</term> cum multis aliis <term ref="#especeries"
+                                >speciebus</term> admixtis, quod est valde bonum; et si homines non asueti
+                        bibant ex eo, statim patiuntur fluxum. </seg>
+                    <seg xml:id="c36_Z14_p14" n="14"> In terra illa non invenitur herba que duret super
+                        terram, preterquam in loco aquoso; et hoc propter nimium calorem qui omnia
+                        desiccat. </seg>
+                    <seg xml:id="c36_Z14_p15" n="15"> Quando vero homines et mulieres obeunt, eorum
+                        planctus et dollor bene quatuor annis continuatur super quolibet defuncto. </seg>
+                    <seg xml:id="c36_Z14_p16" n="16"> Nam, congregatis parentibus et vicinis, quousque ad
+                        dictum terminum saltem semel in die continuant ipsum planctum; et cum sepius
+                        moriantur, isto modo nunquam dolore carent. </seg>
+                    <seg xml:id="c36_Z14_p17" n="17"> Et inveniuntur ibi mulieres multum docte in
+                        planctu, que conveniuntur pretio ut deplorent die qualibet super aliorum et
+                        aliarum defunctos.</seg>
+                </p>
+                <p n="2" xml:id="c36_Z14_par2">
+                    <seg xml:id="c36_Z14_p18" n="18">Et veniendo de <placeName ref="#curmos"
+                        >Cormos</placeName> ad <placeName ref="#crermain">Chermam</placeName>, multe
+                        planities inveniuntur pulcre et magne, habundantes in victualibus et <term
+                            ref="#bangnes">balneis</term> calidis ex terra scaturientibus. </seg>
+                    <seg xml:id="c36_Z14_p19" n="19">Panis vero frumenti est ibi tam amarus, quod nullus
+                        qui consuetus non sit ex eo comedere potest: et hoc est propter terram infusam ab
+                        aquis dictarum <term ref="#bangnes">balnearum</term>, que quidem amare sunt.</seg>
+                </p>
+                <p n="3" xml:id="c35_Z14_par3">
+                    <seg xml:id="c35_Z14_p20" n="20">Hic est quidem contrata pro maiori parte fructuum. </seg>
+                    <seg xml:id="c35_Z14_p21" n="21">Sunt <term ref="#dattal">dactuli</term> et <term
+                        ref="#pomeParais">poma paradisi</term> et alie maneries fructuum quam plures,
+                        qui in nostris locis frigidis non nascuntur. </seg>
+                    <seg xml:id="c35_Z14_p22" n="22">Et ibi quoddam genus avium nomine <term
+                        ref="#francolin">franculini</term>, qui a <term ref="#francolin"
+                            >franculinis</term> aliarum contractarum disimilant. </seg>
+                    <seg xml:id="c35_Z14_p23" n="23">Bestie etiam sunt dissimiles ab aliis. </seg>
+                    <seg xml:id="c35_Z14_p24" n="24"> Sunt <term ref="#buef">boves</term> magni et toti
+                        albi ut nix: pulcerimi sunt visu. </seg>
+                    <seg xml:id="c35_Z14_p25" n="25">Honus magnum portant, quia fortissimi sunt; et cum
+                        honerari debent, ad modum <term ref="#giamiaus">camelorum</term> se flectu‹n›t ad
+                        terram, |10v| et postmodum onerati, exurgunt. </seg>
+                    <seg xml:id="c35_Z14_p26" n="26">Sunt etiam ibi <term ref="#monton">arietes</term>
+                        magnitudinis <term ref="#asnes">asinorum</term>, qui sunt grosi et largi caudas ita
+                        quod una est bene ponderis .XXX. librarum et plurium. </seg>
+                    <seg xml:id="c35_Z14_p27" n="27">Istis partibus inveniuntur aliqui qui sciunt artes
+                        magicas et dyabolicas, quibus tota die celebrant et obscurant ita quod, nisi unus
+                        sit prope alium, videri non posunt. </seg>
+                    <seg xml:id="c35_Z14_p28" n="28"> Et sic quandoque equitant per .XXX. et .XL. <term ref="#journee">dietas</term>,
+                        et ut plurimum versus partes <placeName ref="#reobar">Reobar</placeName>, et
+                        capiunt homines ipsosque vendunt. </seg>
+                    <seg xml:id="c35_Z14_p29" n="29">Et dominus <persName ref="#marcoPolo"
+                        >Marcus</persName> fere captus fuit ab eis propter obscuritatem illam, sed
+                        fugit ad quoddam castrum. </seg>
+                    <seg xml:id="c35_Z14_p30" n="30"> Sed aliqui ex eius sociis capti fuerunt et
+                        ve‹n›diti, aliqui vero mortui.</seg>
+                </p>
+                <p n="4" xml:id="c37_Z14_par4">
+                    <seg xml:id="c37_Z14_p31" n="31">Cum vero disceditur a <placeName ref="#crermain"
+                        >Chermam</placeName>, quod durat .III. <term ref="#journee">dietis</term>, intratur quoddam desertum; in
+                        quibus locis non invenitur nisi parum acque, et illa salsa est et viridis velud
+                        herba prati, et ita amara quod nullus de ea bibere posset. </seg>
+                    <seg xml:id="c37_Z14_p32" n="32"> Et si quis biberet solummodo una‹m› gutam, flueret
+                        de subtus pluribus .X. vicibus. </seg>
+                    <seg xml:id="c37_Z14_p33" n="33"> Et homines transeuntes per illa deserta secum
+                        portant aquam; bestie vero violenter bibunt propter cogentem sitim, sed statim
+                        paciuntur fluxum corporis valde magnum. </seg>
+                    <seg xml:id="c37_Z14_p34" n="34"> Et in omnibus istis .III. <term ref="#journee">dietis</term> nulla habitatio
+                        invenitur, sed est desertum et siccitas; nec inveniuntur bestie, quia ad
+                        comedendum non habent.</seg>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

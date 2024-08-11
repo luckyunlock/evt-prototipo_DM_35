@@ -1,0 +1,719 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listApp xml:id="MP_listApp">
+            <app from="#c35_tr35_p1">
+               <note><ref type="witlink" target="#c35_F35">F 35</ref> («Ci devise de la cité de
+                     <placeName ref="#camandi">Comadi</placeName>»); <ref type="witlink"
+                     target="#c35_Fr1.35">Fr1 35</ref> / <ref type="witlink" target="#c35_Fr2.35">Fr2
+                     35</ref> («Ci dit le .XXXV. chapitre d’une cité qui a non <placeName
+                     ref="#camandi">Camady</placeName>» / «Ci dist d’une cité qui a non <placeName
+                     ref="#camandi">Camadi</placeName>. .XXX.V.»); <ref type="witlink"
+                     target="#c35_L29">L 29</ref> («De civitate <placeName ref="#camandi"
+                     >Camandi</placeName>»); <ref type="witlink" target="#c35_P1.22">P I 22</ref>
+                  («De civitate <placeName ref="#camandi">Camandu</placeName> et regione <placeName
+                     ref="#reobar">Reobarle</placeName>. Capitulum 22»); <ref type="witlink"
+                     target="#c35_TA35">TA 35</ref> («Di <placeName ref="#camandi"
+                     >Camandi</placeName>»); <ref type="witlink"
+                     target="#c35_TB36 #c35_TB37 #c35_TB38 #c35_TB39 #c35_TB40 #c35_TB41"
+                     ><!-- verificare se il target così funziona o se bisogna "spezzettarlo" -->TB
+                     36-TB 41</ref>; <ref type="witlink" target="#c34_V20">V 20 8-24</ref> («Del
+                  reame de <placeName ref="#crermain">Ereimain</placeName>»); <ref type="witlink"
+                     target="#c34_VA22">VA 22 5-27</ref> («Della grande desexa et del pian dove è
+                  grandisimi <term ref="#buef">boi</term> e <term ref="#monton">moltoni</term>»);
+                     <ref type="witlink" target="#c34_VB22">VB 22 10-21</ref>; <ref type="witlink"
+                     target="#c35_Z13 #c35_Z14">Z 13; Z 14 20-30</ref><!-- idem qui se funziona -->.
+                  The chapter is omitted in K. Chapter 35 is a chorographical description of the
+                  great plain of <placeName ref="#reobar">Reobar</placeName>, which extends from
+                     <placeName ref="#camandi">Qamadin</placeName> to the coast of <placeName
+                     ref="#curmos">Hormuz</placeName>, in south-eastern Iran. First of all,
+                     <persName ref="#marcoPolo">Marco Polo</persName> reviews its characteristic
+                  flora and fauna; then he dedicates an ethno-historiographical digression to the
+                     <term ref="#caraunas">Qara’unas</term>, the marauder-magicians of Tartar origin
+                  who passed through those lands, terrifying inhabitants (and whose rapacity the
+                  Venetian himself had experienced), addressing the issue of their origins, which
+                  was linked to the military exploits of the legendary king <persName ref="#nogodar"
+                     >Nogodar</persName>. Except for the usual fluctuation of variants and of the
+                  tendency of some versions to summarise (especially L, P, TA) or to slightly rework
+                  the content (VB), the redactions belonging to the α group and the Venetian
+                  redaction V substantially present the same text in this chapter; the clearest
+                  structural innovation is the complete omission of the historiographical digression
+                  concerning <persName ref="#nogodar">Nogodar</persName> in <ref type="witlink"
+                     target="#c35_L29">L 29</ref>, <ref type="witlink" target="#c35_P1.22">P I
+                     22</ref> and <ref type="witlink" target="#c35_TA35">TA 35</ref>. Within the β
+                  group, the Toledan manuscript (in which <ref type="witlink" target="#c35_tr35">DM
+                     35</ref> is spread over two chapters: <ref type="witlink" target="#c35_Z13">Z
+                     13</ref> and <ref type="witlink" target="#c35_Z14">Z 14 20-30</ref>) and
+                  Ramusio’s “Milione” offer an extensively-reworked version of two sections of the
+                  text, corresponding to <ref type="witlink" target="#c35_F35">F 35 5-6</ref> (the
+                  review of the typical fruits and birdlife in the <placeName ref="#reobar"
+                     >Reobar</placeName> plain) and to <ref type="witlink" target="#c35_F35">F 35
+                     11-19</ref> (the <term ref="#caraunas">Qara’unas</term>’ plundering techniques;
+                  the historiographical digression concerning <persName ref="#nogodar"
+                     >Nogodar</persName>): concerning the first point, see <ref type="witlink"
+                     target="#c35_Z13">Z 13 3-6</ref> and <ref type="witlink" target="#c35_R1.14">R
+                     I 14 2-5</ref>, concerning the second, see <ref type="witlink"
+                     target="#c35_Z14">Z 14 27-28</ref> – which, however, radically shortens it –
+                  and <ref type="witlink" target="#c35_R1.14">R I 14 9-13</ref>. Our translation
+                  essentially follows <ref type="witlink" target="#c35_F35">F 35</ref>, with two
+                  little ‘addenda’ (in <ref type="witlink" target="#c35_tr35">DM 35 2</ref> and <ref
+                     type="witlink" target="#c35_tr35">DM 35 5</ref>) drawn from the β group; the
+                  two sections of the text reworked in Z and R have been translated on the basis of
+                  these two redactions and placed at the end of the respective pericopes (<ref
+                     type="witlink" target="#c35_tr35">DM 35 3</ref> and <ref type="witlink"
+                     target="#c35_tr35">DM 35 11</ref>), instead of being artificially merged with
+                  the main text taken from F. </note>
+            </app>
+            <app from="#c35_tr35_p2">
+               <note>Our translation follows <ref type="witlink" target="#c35_F35">F 35 2-4</ref>
+                  («Et quant l’en ha descendu celle deus <term ref="#journee">jorné</term> que je
+                  voç ai dit, adonc treve une grandisme plaingne et ao començamant de cel plain a
+                  une cité, qe est apelés <placeName ref="#camandi">Camandi</placeName>, que jadis
+                  fu grant cité et noble a mervoille, mes orendroit ne est pas si grant ne si bone,
+                  car <term ref="#tartars">Tartarç</term> d’autre païs la ont domajés plusor foies.
+                  Et voç di qu’il est ‹en› celle plaingne mout chaut. Et la proense de coi nos
+                  comi‹n›son hore est apellé <placeName ref="#reobar">Reobar</placeName>»), with the
+                  addition of a chorographical datum – the extension of the <placeName ref="#reobar"
+                     >Reobar</placeName> plain – drawn from the β group: it is to be found in <ref
+                     type="witlink" target="#c35_Z13">Z 13 1</ref> («invenitur quedam planicies
+                  magna, que versus <term ref="#midi">meridiem</term> durat per .V. <term
+                     ref="#journee">dietas</term> ») and <ref type="witlink" target="#c35_R1.14">R I
+                     14 1</ref> («si trova una gran pianura, la qual verso <term ref="#midi"
+                     >mezzodì</term> dura per cinque <term ref="#journee">giornate</term>»), but not
+                  in <ref type="witlink" target="#c34_V20">V 20 8</ref> («…el se trova una gran
+                  pianura, et al chomenzamento de questa pianura»). As regards the rest of the
+                  tradition of the text, the pericope is omitted in <ref type="witlink"
+                     target="#c34_VB22">VB 22 10-21</ref>, while in <ref type="witlink"
+                     target="#c35_L29">L 29 1-2</ref>, <ref type="witlink" target="#c35_P1.22">P I
+                     22 1-2</ref> and <ref type="witlink" target="#c35_Z13">Z 13 1-3</ref> it is
+                  summarised and all the other redactions closely follow the Franco-Italian one.
+                  Finally, it is interesting to point out that F shares with L and TA an error of
+                  clear paleographic origin (-t > -e): in the text of the Parisian manuscript, the
+                  noun «plaingne», ‘plain’, is accompanied by the adjective «chave», ‘hollow,
+                  depressed’ (written «chaue» in the manuscript), appropriately corrected to
+                  «chaut», ‘hot’, by the editors of F, on the basis of the stemma (cf. <ref
+                     type="bibli" target="#eusebi_burgio_2018">Eusebi, Burgio 2018, 1: 59</ref>);
+                  earlier Franco-Italian manuscripts that had the same variant as F (‹chaue›), or a
+                  very similar one, generated the texts of <ref type="witlink" target="#c35_L29">L
+                     29 1</ref> («[planicies] est valde concava et depressa») and <ref
+                     type="witlink" target="#c35_TA35">TA 35 3</ref> («Questo piano è molto cavo»).
+               </note>
+            </app>
+            <app from="#c35_tr35_p3">
+               <note>Our translation of the description of the flora and fauna in the <placeName
+                     ref="#reobar">Reobar</placeName> plain closely follows <ref type="witlink"
+                     target="#c35_F35">F 35 5-6</ref> («Les sien fruit sunt datarlet <term
+                     ref="#pomeParais">pome de paraïse</term> et <term ref="#pistac">pistac</term>
+                  et autres fruit les quelz ne sunt en nostre leu froit. Et en ceste plaingn a une
+                  generasion d’oisiaus que l’en apelle <term ref="#francolin">francolin</term>, que
+                  sunt devissé a les autres <term ref="#francolin">francolin</term> des autres païs,
+                  car il sunt noir et blance mesleemant, et les piés et les bech{o} ont rouges.»),
+                  except for the adjective ‘many’ in the phrase «many other fruits», absent in the
+                  Franco-Italian redaction, but unanimously confirmed by the rest of the tradition:
+                     <ref type="witlink" target="#c35_L29">L 29 3</ref> («alii quam plures
+                  fructus»), <ref type="witlink" target="#c35_Fr1.35">Fr1 35 4</ref> («autrs fruis
+                  assez») and <ref type="witlink" target="#c34_V20">V 20 10</ref> («molti altri
+                  fruti»), etc. As regards the ‘varia lectio’, we notice, in addition to the
+                  omission of the entire pericope in <ref type="witlink" target="#c34_VB22">VB 22
+                     10-21</ref>, the usual tendency to abridge shown by <ref type="witlink"
+                     target="#c35_TA35">TA 35 4</ref> («suoi frutti sono <term ref="#dattal"
+                     >dattari</term>, <term ref="#pistac">pistacchi</term>, <term ref="#pomeParais"
+                     >frutti di paradiso</term> e altri frutti che non son di qua»), removing the
+                  description of the <term ref="#francolin">francolins</term> and by Friar Pipino in
+                  his redaction, <ref type="witlink" target="#c35_P1.22">P I 22 3-4</ref> («Ibi sunt
+                     <term ref="#dattal">dactili</term>, <term ref="#pistac">pistachi</term> et
+                     <term ref="#pomeParais">poma Paradisi</term> in copia maxima, multique fructus
+                  alii crescunt ibi qui apud nos habentur. Ibi sunt aves qui dicuntur ‘<term
+                     ref="#francolin">francolini</term>’, coloris permixti albi et nigri; rubei
+                  autem coloris habent pedes et rostra») ; the latter contains a singular error,
+                  perhaps due to a “saut du même au même” (‘nos habentur’ > *‘nos non [or ‘nos nō’]
+                  habentur’ ?), which overturns the meaning of the text. Finally, for a discussion
+                  about the errors in <ref type="witlink" target="#c34_V20">V 20 10-11</ref> («Et li
+                  suo’ fruti sono <term ref="#dattal">datali</term> e <term ref="#pomeParais">pome
+                     del paradixo</term> et sono molti altri fruti li quali non se trova in ’ste
+                  parte per el gran fredo. Et in questa pianura se trova una zenerazion de oxeli li
+                  quali sono chiamati <term ref="#francolin">francholini</term>, ch’è simele ali
+                     <term ref="#fauchon">falchoni</term> dele altre parte, et sì è negri e bianchi
+                  mesedadi ed à el becho negro») see <ref type="bibl" target="#simion_2019">Simion
+                     2019, 392</ref>. In Z and R we can read an alternative version of the first
+                  part of the pericope, containing more information about the flora and fauna of
+                     <placeName ref="#reobar">Reobar</placeName> compared to the rest of the
+                  tradition: cf. <ref type="witlink" target="#c35_Z13">Z 13 3-6</ref> («producit
+                  frumentum et alia blada. Nascuntur poma granata, citrana et multi alii fructus et
+                  poma, que in nostris partibus frigidis non nascuntur. Conversantur ibi turtures
+                  infiniti, propter multas pomelas quas ibi inveniunt ad edendum; et sunt sine
+                  numero, nec <term ref="#saracinz">saraceni</term> de eis comedunt unquam, quia eos
+                  aborrent. Inveniuntur et ibi <term ref="#faicain">fassiani</term>, <term
+                     ref="#francolin">franculini</term> et alie aves multe») and <ref type="witlink"
+                     target="#c35_R1.14">R I 14 2-5</ref> («et produce formento, orzo et altre
+                  biade. Per le coste delli monti di detta pianura nascono pomi granati, codogni et
+                  molti altri frutti, et <term ref="#pomeParais">pomi di Adamo</term>, i quali nelle
+                  nostre parti fredde non nascono. Ivi sono infinite tortore, per le molte pomelle
+                  che vi trovano da mangiare, né li <term ref="#saracinz">Saraceni</term> mai le
+                  pigliano, perché le hanno in abominatione. Vi si trovano anchora molti <term
+                     ref="#faicain">fagiani</term> et <term ref="#francolin">francholini</term>, li
+                  quali non si assimigliano»). For its part, the Toledan manuscript also shows the
+                  same textual variant witnessed by the α group and V, but it is placed - together
+                  with the rest of the digression on <placeName ref="#reobar">Reobar</placeName>’s
+                     <term ref="#buef">oxen</term>, <term ref="#monton">rams</term> and marauders -
+                  in the following chapter, after the passage where <persName ref="#marcoPolo">Marco
+                     Polo</persName> describes his return journey from <placeName ref="#curmos"
+                     >Hormuz</placeName> to <placeName ref="#crermain">Kerman</placeName>: cf. <ref
+                     type="witlink" target="#c35_Z14">Z 14 20-22</ref> («Hic est quidem contrata pro
+                  maiori parte fructuum. Sunt <term ref="#dattal">dactuli</term> et <term
+                     ref="#pomeParais">poma paradisi</term> et alie maneries fructuum quam plures,
+                  qui in nostris locis frigidis non nascuntur. Et ibi quoddam genus avium nomine
+                     <term ref="#francolin">franculini</term>, qui a <term ref="#francolin"
+                     >franculinis</term> aliarum contractarum disimilant»). As regards this
+                  particular textual and structural misalignment between the Toledan text and the
+                  rest of the tradition, see <ref type="bibl" target="#mascherpa_2008">Mascherpa
+                     2008, 176-8</ref>.</note>
+            </app>
+            <app from="#c35_tr35_p4">
+               <note>Our translation closely follows <ref type="witlink" target="#c35_F35">F 35
+                     7-8</ref> («Les bestes sunt aussi divisee, et voç dirai des <term ref="#buef"
+                     >bué</term> primeramant. Les <term ref="#buef">buef</term> sunt grandismes et
+                  sunt tuit blance come nois; le poi‹l› il ont peitet et |16a| plain, et ce avient
+                  por le caut leu; il ont les cornes cortes et groses et non agues; entre les
+                  spaules ont un çinb reont haut bien deus paumes: il sunt la plus belle chause dou
+                  monde a veoir. Et quant l’en le vuelt chargier, il se coucent ausint con font les
+                     <term ref="#giamiaus">giamiaius</term>; et quant l’en le a chargés, il se
+                  levent et portent lor chargies mout bien, car il sunt forte outre meçure»), whose
+                  text is substantially confirmed by the tradition, excluding any little differences
+                  between the redactions. Thus, in <ref type="witlink" target="#c35_P1.22">P I 22
+                     5</ref>, <ref type="witlink" target="#c34_VB22">VB 22 10-11</ref> and <ref
+                     type="witlink" target="#c35_Z14">Z 14 23-25</ref> we observe the usual tendency
+                  to summarise, while TB shows the evident error of attributing to the yaks some
+                  physical features of the rams, which are described immediately afterwards (<ref
+                     type="witlink" target="#c35_TB37">TB 37 4</ref> «e quando e’ sono charichati si
+                  levano e portano molto bene lo peso loro, ché sono forti chome asini e ànno la
+                  choda sì grossa e sì llargha {p} che pesa ben trenta libre; e’ sono molto belli e
+                  molto grassi è sono buoni da mangiare»); VA overturns the meaning of the note
+                  about yaks’ horns, replacing ‘non’ with ‘sono’ (error due maybe to a bad reading:
+                  ‘non’ > *‘son’: VA 22 10 «le chorne churte e grosse et sono achute»); finally, V
+                  compromises the meaning of two points of the pericope, by inserting first the
+                  adjective ‘similar’ where the whole tradition contains its antonym (cf. F
+                  ‘divisee’, Fr ‘devisees’, etc.), then the noun ‘onge’, ‘nails’, where F has
+                  ‘agues’, Fr ‘aguës’, ‘pointed’, etc. (maybe a Franco-Italian syntagm *‘non augue’
+                  has been improperly segmented: *‘non augue’ > * ‘non au[n]gue’ > ‘nonn à onge’):
+                     <ref type="witlink" target="#c34_V20">V 20 12-13</ref> «Et le altre bestie è
+                  simele ale nostre. Li <term ref="#buef">buò</term> sono molti grandi e tuti
+                  bianchi chomo neve, ed à uno pelo pizolo e baso e questo sono per el chaldo
+                  grando; ed à le chorne churte e grosse et nonn à onge, et ale spalle à uno gobo
+                  groso do palma; al veder someiâ <term ref="#giamiaus">ganbeli</term>, e queli vien
+                  chargadi et metese zoxo e poi se lieva chomo fano i <term ref="#giamiaus"
+                     >ganbeli</term>, et porta chargo oltra muodo perché i sono forti» (see <ref
+                     type="bibl" target="#simion_2019">Simion 2019, 392</ref>).</note>
+            </app>
+            <app from="#c35_tr35_p5">
+               <note>Our translation substantially follows <ref type="witlink" target="#c35_F35">F
+                     35 9</ref> («Il ha <term ref="#monton">mouton</term> grant com <term
+                     ref="#asnes">asne</term>; et ont la coe si grosse et si large que bien poisse
+                  trente livres; il sunt mout biaus et gras et sunt buen a manger»), with the
+                  addition of a little specification about the weight of the rams’ tail – «and even
+                  more» – drawn from the redactions of the β group: cf. <ref type="witlink"
+                     target="#c35_Z14">Z 14 26</ref> («Sunt etiam ibi <term ref="#monton"
+                     >arietes</term> magnitudinis <term ref="#asnes">asinorum</term>, qui sunt grosi
+                  et largi caudas ita quod una est bene ponderis .XXX. librarum et plurium»), <ref
+                     type="witlink" target="#c35_R1.14">R I 14 7</ref> («Vi sono anchora <term
+                     ref="#monton">castroni</term> di grandezza de <term ref="#asnes">asini</term>,
+                  che hanno le code grosse et larghe, di sorte che una pesarà libbre trenta et piú,
+                  et sono grassi et buoni da mangiare»), and <ref type="witlink" target="#c34_V20">V
+                     20 14</ref> («Anchora se trova <term ref="#monton">chastroni</term> grandi
+                  chomo <term ref="#asnes">axeni</term>, li quali àno la choda tanto grasa che pexa
+                  più de trenta livre grosse ed è molti boni da manzar»). As for the rest of the
+                  versions, we notice flawed variants in <ref type="witlink" target="#c35_TA35">TA
+                     35 7</ref>, where the erroneous syntagm «<term ref="#monton">montoni</term>
+                  [...] bia‹n›chi» may be due to a misreading of the Franco-Italian adjective:
+                  «biaus» > *bians, and in <ref type="witlink" target="#c34_VB22">VB 22 12</ref>,
+                  which attributes to the yaks some features that <persName ref="#marcoPolo">Marco
+                     Polo</persName> assigns instead to the rams («Ànno la choda grossisima – chome
+                  ànno i <term ref="#monton">chastroni</term> di <placeName ref="#tartaria"
+                     >Tartaria</placeName> – et, al mio iudicio, di pexo de libre .XXX. e bonissima
+                  da mangiare»; the same error is to be found in <ref type="witlink"
+                     target="#c35_TB37">TB 37 4</ref>: see our commentary to <ref type="witlink"
+                     target="#c35_tr35">DM 35 4</ref>). </note>
+            </app>
+            <app from="#c35_tr35_p6">
+               <note>Here the digression about the ethnic group of the <term ref="#caraunas"
+                     >Qara’unas</term> begins (see <ref type="bibl" target="#simion_burgio_2015"
+                     >Simion, Burgio 2015, s.v. «Caraunas»</ref>): our translation closely follows
+                     <ref type="witlink" target="#c35_F35">F 35 10-11</ref> («En ceste plaingne a
+                  plusor castiaus et viles que unt les mur de tere hautes et groses por defendre{s}
+                  elç des <term ref="#caraunas">Caraunas</term>, ce sunt berovierç que vont corant
+                  les païs. Et por coi s’apellent <term ref="#caraunas">caraonas</term>? Po‹r› ce ke
+                  lor mere sunt esté indiene et lor pere tartarç»); <ref type="witlink"
+                     target="#c35_L29">L 29 8</ref>, <ref type="witlink" target="#c35_TB38">TB 38
+                     1-2</ref>, <ref type="witlink" target="#c34_V20">V 20 15-16</ref> and <ref
+                     type="witlink" target="#c34_VA22">VA 22 13-14</ref>. Some redactions summarise
+                  this pericope: <ref type="witlink" target="#c35_P1.22">P I 22 7</ref> removes the
+                  note on the origin of the name ‘<term ref="#caraunas">Qara’unas</term>’ («In hac
+                  planice multe sunt civitates et oppida, et habent muros luteos grossos valde et
+                  fortes, quia in regione illa multi predones sunt, qui dicuntur ‘<term
+                     ref="#caraunas">caraonas</term>’»), while <ref type="witlink"
+                     target="#c35_TA35">TA 35 8</ref> («In questo piano à castella e città e ville
+                  murate di terra per difender‹si› da scherani che vanno ro‹b›ando») even omits the
+                  name, unless the noun ‘scherani’ is a ‘facilior’ lexical variant of ‘<term
+                     ref="#caraunas">Qara’unas</term>’ (cf. <ref type="bibl"
+                     target="#pelliot_1959-1973">Pelliot 1959-1973, 1: 183</ref>). In the
+                  MiddleFrench redaction, the close double occurrence of the ethnonym produces an
+                  error: cf. <ref type="witlink" target="#c35_Fr1.35">Fr1 35 13-15</ref> («En ce
+                  plain a pluisours chastiaus et viles qui ont lors murs de terre haut et gros a
+                  deffendre soi des <term ref="#tartars">Tartars</term> [Fr2 Carriax] qui y sont
+                  assez, et les apelent <term ref="#caraunas">Caraonas</term>. Pour quoi ont il ce
+                  non? Pour ce que leur meres sont indiennes et leur peres <term ref="#tartars"
+                     >tartars</term>»). As regards VB, the author of the redaction misunderstands
+                  the meaning of the passage: indeed, he attributes the name ‘<term ref="#caraunas"
+                     >Caraor</term>’ – and, consequently, the bad habits of that people listed in
+                  the following lines – to the inhabitants of the plain themselves, instead of to
+                  the bands of marauders (<ref type="witlink" target="#c34_VB22">VB 22 13</ref> «In
+                  questo piano v’è molte forteçe: àno i llor muri di terra per difexa loro; e
+                  chiamasi questa çente <term ref="#caraunas">Caraor</term>, che tanto vene a dire
+                  chome in nostra lengua <term ref="#guasmul">gasmulli</term> over bastardi, però
+                  che antigamente i sono desesi per madre de dona d’<placeName ref="#ynde"
+                     >India</placeName> e per padre <term ref="#tartars">tartaro</term>»). It is
+                  interesting to note that the author of VB employs the noun «<term ref="#guasmul"
+                     >gasmulli</term>», ‘half-blood’, to better define the crossbreeding of the
+                     <term ref="#caraunas">Qara’unas</term>: this is a term of Greek-Byzantine
+                  origin which entered the vocabulary of Old French (cf. <ref type="bibl"
+                     target="#andreose_2017">Andreose 2017</ref>, 34, with bibliography) and which
+                  occurs only once and much further on in the other redactions, i.e. in the chapter
+                  dedicated to the province of <placeName ref="#tenducProvincia">Tenduc</placeName>
+                     (<ref type="witlink" target="#c73_F73">F 73 13</ref>), as a French/Romance?
+                  translation of the Turkish word «<term ref="#argon2">argon</term>», ‘mixed-blood’
+                     (<ref type="bibl" target="#pelliot_1959-1973">Pelliot 1959-1973, 1: 48-9</ref>;
+                     <ref type="bibl" target="#simion_burgio_2015">Simion, Burgio 2015, s.v.
+                     «argon»</ref>). Finally, as regards Ramusio’s version (<ref type="witlink"
+                     target="#c35_R1.14">R I 14 8-9</ref> «In questa provincia vi sono molti
+                  castelli et città che hanno le mura di terra alte et grosse, et questo per potersi
+                  difendere dalli <term ref="#caraunas">Caraunas</term>, che vanno scorrendo per
+                  tutti quelli luoghi depredando il tutto. Et acciò che si sappi quello che vuol
+                  dire questo nome di <term ref="#caraunas">Caraunas</term>, dico che fu uno
+                     <persName ref="#nogodar">Nugodar</persName>»), it is very close to F at least
+                  up to the question of the ethnonym: from that point on, and until <ref
+                     type="witlink" target="#c35_R1.14">R I 14 13</ref>, R presents the digression
+                  about the <term ref="#caraunas">Qara’unas</term> and <persName ref="#nogodar"
+                     >Nogodar</persName> in a reworked version, partially confirmed by the Toledan
+                  manuscript, which is unfortunately very incomplete here cf. <ref type="witlink"
+                     target="#c35_Z14">Z 14 27-28</ref>).</note>
+            </app>
+            <app from="#c35_tr35_p7">
+               <note>Our translation exactly follows <ref type="witlink" target="#c35_F35">F 35
+                     12</ref> («Et cest gens quant il vuelent corer les païs et rober, il font por
+                  lor encantemant, pour evre diablotique, tout le jor devenir oscur, si que l’en ne
+                  voit loingne se pou non, e ceste oscurité font durer .VII. <term ref="#journee"
+                     >jornee</term> a lonc»), to which <ref type="witlink" target="#c35_L29">L 29
+                     8</ref>, <ref type="witlink" target="#c35_TB39">TB 39 1</ref>, <ref
+                     type="witlink" target="#c34_V20">V 20 17</ref>, <ref type="witlink"
+                     target="#c34_VA22">VA 22 15</ref> roughly correspond. In Friar Pipino’s
+                  redaction, which belongs to the VA group, the ‘singularis’ detail about the
+                  extension of darkness «in magno spacio» (<ref type="witlink" target="#c35_P1.22">P
+                     I 22 7</ref>) perhaps derives from an interpretation of the adverbial phrase
+                  «da lonzi» (or similar) occurring in the source text (see VA 22 15 «egli fano, per
+                  inchantamento e per opera de diavoli, che ’l tenpo chiaro se oschurisse sì chome
+                  el fosse de note, sì che l’omo non pò vedere da lonzi se non pocho»). VB abridges
+                  and reworks the text (cf. <ref type="witlink" target="#c34_VB22">VB 22 14</ref> «È
+                  mallissima e prava çeneracione de robatori e negromanti: intanto quando volle
+                  andar a robar, i fano oschurar el solle et, oschurato, non se vedendo quaxi
+                  lume»). In the β group, the alternative version of Z and R describe the visual
+                  effects of magical darkness in a slightly different – and more concrete – way
+                  (i.e. «if you are not close to your companion, it is impossible for you to see
+                  him»): see <ref type="witlink" target="#c35_Z14">Z 14 27</ref> («Istis partibus
+                  inveniuntur aliqui qui sciunt artes magicas et dyabolicas, quibus tota die
+                  celebrant [sic for ‘tenebrant’] et obscurant ita quod, nisi unus sit prope alium,
+                  videri non posunt») and <ref type="witlink" target="#c35_R1.14">R I 14 12</ref>
+                  («Et come vennero in <placeName ref="#melibar">Malabar</placeName> imparorono
+                  l’arti magice et diabolice, con le quali sanno far venir tenebre et oscurar il
+                  giorno, di modo che, se uno non è appresso a l’altro, non si veggono»). A similar
+                  variant also occurs, maybe for polygenesis, also in the α group, in <ref
+                     type="witlink" target="#c35_Fr1.35">Fr1 35 16</ref> («si font […] tout le jour
+                  devenir oscur, que a paines voit on son compaignon pres de lui») and in <ref
+                     type="witlink" target="#c35_TA35">TA 35 9</ref> («E questa gente che corre lo
+                  paese, per incantamento fanno parere notte VII <term ref="#journee"
+                     >giornate</term> a la lunga, perché altri non si possa guardare»), which, as
+                  usual, summarises the text.</note>
+            </app>
+            <app from="#c35_tr35_p8">
+               <note>Our translation follows <ref type="witlink" target="#c35_F35">F 35 13-14</ref>
+                  literally («Il sevent mout bien les païs. Il chevauchent, quant il ont faite la
+                  scurité, le un dejoste l’autre; et sunt bien .Xm. tel fois, et tel fois plus, et
+                  telz foiz moin, si qu’il prennent tout le plan dont il vuelent rober, si que tuit
+                  celz que il trovent en les plennes ne poent excanper, ne homes ne bestes ne
+                  couses, qu’il n’estoient prises. Et puis qu’il ont pris les homes, il occient tuit
+                  les velz, et les jeunes enmoinent et les vendent pour sers et pour esclaif»);
+                  substantially the same text can be read in <ref type="witlink"
+                     target="#c35_Fr1.35">Fr1 35 17-19</ref> («Il sevent moult bien le païs et
+                  chevauchent l’un pres de l’autre et sont aucune foiz .X. <term ref="#mil"
+                     >mile</term>, tel foiz plus ou mains, si que il prendent tout le plain. Et touz
+                  ceuz qu’il truvent em plain hors de vile ou [de] chastel sont pris, qu’il n’en
+                  puet eschaper ne homme ne femme ne bestail. Et puis qu’il ont pris tout, il
+                  occient les hommes viellars, et les jones et les femmes vendent par autres païs
+                  pour esclas, si que il destruient moult la contree et l’ont presque toute
+                  deserté»), with the insertion of two redundant and ‘singulares’ textual segments
+                  which are surely not original («em plain […] chastel», «si que il destruient […]
+                  deserté»). As regards the VA family, it has two characteristic variants: an
+                  erroneous translation («passi» &gt; Franco-Italian «païs») and a sort of
+                  explanatory gloss about the <term ref="#caraunas">Qara’unas</term>’ plundering
+                  technique: cf. <ref type="witlink" target="#c34_VA22">VA 22 16-18</ref> («E sano
+                  molto ben i pasi: e loro chavalchano uno a pe’ del’altro; e sono alle fiate ben
+                  Xm, sì che i fano sì longa schiera ch’el non pò passar niuno che non sia prexo,
+                  perché ’li prendeno chotanto tereno che niuno non pò schanpar per quel piano.
+                  Quando i fano questa cotal chavalchata, e prendeno homeni e bestie. E quando i àno
+                  prexi li homeni, egli alzideno i vechi, e i gioveni vendeno per schiavi») and <ref
+                     type="witlink" target="#c35_TB39">TB 39 2-3</ref> («Eglino sanno molto bene gli
+                  passi è cavalchano tutti l’uno a piè dell’altro e sono talvolta ben xm, sì che
+                  fanno sì lungha schiera e pigliano tanto terreno che niuno può passare che non sia
+                  preso. Per quel piano quando egli fanno cotale chavalchata pigliano huomini e
+                  bestie e quando egli ànno presi gli uomini eglino uccidono tutti li vechi e i
+                  giovani vendono per schiavi»); this gloss is also to be found in Friar Pipino’s
+                  abridged redaction: <ref type="witlink" target="#c35_P1.22">P I 22 7</ref> «et
+                  tunc predones illi egredientes ad campos, quandoque numero decem milia, ordinant
+                  se per longas acies unus pariter iuxta alium in latitudine magna, ita ut rarus sit
+                  inde pertransiens qui non incidat manus eorum: capiunt autem homines et iumenta,
+                  vendunt iuvenes et senes occidunt». As usual, the L and TA redactions abbreviate
+                  their source texts (<ref type="witlink" target="#c35_L29">L 29 8</ref> «Et tunc
+                  ipsi, qui bene noverunt contratam, incedunt simul aliquando bene .Xm., et capiunt
+                  animalia et homines et quecumque volunt; verum quod omnes senes occidunt; iuvenes
+                  verum conservant, pro servis vendunt»; <ref type="witlink" target="#c35_TA35">TA
+                     35 9-10</ref> «quando ànno fatto questo, vanno per lo paese, ché bene lo sanno.
+                  E’ son bene Xm, talvolta più e meno, sicché per quello piano no li scampa né uomo
+                  né bestia: li vecchi ucidono, gli giovani ménagli a vendere per ischiavi»), while
+                     <ref type="witlink" target="#c34_VB22">VB 22 14</ref> summarises and slightly
+                  reworks («et, oschurato, non se vedendo quaxi lume, essendo loro avixati d’i
+                  paexi, entrano nei chaxali e vile e robano; et quanta giente trovano pigliano, e
+                  vechi sença nulla piatà tuti alcideno, i çoveni vendeno»: cf. our commentary to
+                     <ref type="witlink" target="#c35_tr35">DM 35 7</ref>). Within the β group, the
+                  text of <ref type="witlink" target="#c34_V20">V 20 18</ref> («Et fato questo i
+                  vano per quela pianura chavalchando l’uno apreso l’altro, molti in chonpagnia, e
+                  partese in molte parte; et per questo modo lor tien tuta la pianura, et tuti queli
+                  ch’eli trova vieno prexi et nesun, homo nì animal, non li può schanpare; et quando
+                  i prende algun omo vechio i lo alzide, e li zoveni vende») is very close to the
+                  Franco-Italian one, except for a ‘lectio singularis’ («molti in chonpagnia, e
+                  partese in molte parte»), which is perhaps a paraphrase of <ref type="witlink"
+                     target="#c35_F35">F 35 13</ref> («et sunt bien .Xm. tel fois, et tel fois plus,
+                  et telz foiz moin»). As regards R and Z on the other hand, they provide a richer
+                  and deeply reworked version of the description of the <term ref="#caraunas"
+                     >Qara’unas</term>’ raids: cf. <ref type="witlink" target="#c35_R1.14">R I 14
+                     13</ref> («Et cavalcano il piú delle volte verso le parti di <placeName
+                     ref="#reobar">Reobarle</placeName>, perciò che tutti i mercatanti che vengono a
+                  negociar in <placeName ref="#curmos">Ormus</placeName>, fin che si avisano che
+                  venghino i mercatanti dalle parti d’<placeName ref="#ynde">India</placeName>,
+                  mandano al tempo del verno i <term ref="#mul">muli</term> et <term ref="#giamiaus"
+                     >camelli</term>, che si son smagrati per la lunghezza del cammino, alla pianura
+                  di <placeName ref="#reobar">Reobarle</placeName>, dove per l’abondanza dell’herbe
+                  debbano ingrassarsi: et questi <term ref="#caraunas">Caraunas</term>, che
+                  attendono a questo, vanno depredando ogni cosa, et prendono gl’huomini et
+                  vendongli; nondimeno se possono riscattarsi li lasciano andar») and <ref
+                     type="witlink" target="#c35_Z14">Z 14 28</ref> («Et sic quandoque equitant per
+                  .XXX. et .XL. <term ref="#journee">dietas</term>, et ut plurimum versus partes
+                     <placeName ref="#reobar">Reobar</placeName>, et capiunt homines ipsosque
+                  vendunt»). Unfortunately, the Toledan manuscript shows a radically abridged text
+                  here, while the Z manuscript that Ramusio used for his translation was
+                  substantially complete. </note>
+            </app>
+            <app from="#c35_tr35_p9">
+               <note>Our translation follows <ref type="witlink" target="#c35_F35">F 35 15</ref>
+                  exactly («Le{s} lor roi est apellés <persName ref="#nogodar">Nogodar</persName>. E
+                  cestui <persName ref="#nogodar">Nogodar</persName> ala ‹a la› cort de <persName
+                     ref="#ciagatai">Ciagati</persName>, qui estoit frere charnaus au <term
+                     ref="#grantKaan">Grant Can</term>, bien cun .Xm. homes de sa jens, et demoroit
+                  o lui por ce que sen oncle estoit et mout grant sire; et atant qu’il demoroit ho
+                  lui, <persName ref="#nogodar">Nogodar</persName> se pense et fist grant felonie, e
+                  voç dirai comant»), preserving both the note that presents <persName
+                     ref="#ciagatai">Chaghadai</persName> as a ‘great sovereign’ («et mout grant
+                  sire»), and the narrative transition that closes the pericope («et atant [...]
+                  comant»). Although these two textual segments probably belonged to the original
+                  text, many redactions abridge or delete them, in accordance with a marked trend to
+                  simplify the long historiographical digression about king <persName ref="#nogodar"
+                     >Nogodar</persName> (<ref type="witlink" target="#c35_L29">L 29</ref>, <ref
+                     type="witlink" target="#c35_P1.22">P I 22</ref> and <ref type="witlink"
+                     target="#c35_Z14">Z 14 20-30</ref> even omit it, while <ref type="witlink"
+                     target="#c35_TA35">TA 35 11</ref> reduces it to only one line: «Lo loro re à
+                  nome <persName ref="#nogodar">Nogodar</persName>, e sono gente rea e malvage e
+                  crudele»). In addition to F, the note about ‘the (great) sovereign <persName
+                     ref="#ciagatai">Chaghadai</persName>’ can be found in <ref type="witlink"
+                     target="#c35_TB40">TB 40 1</ref> («Questo <persName ref="#nogodar"
+                     >Negodar</persName> andò a la corte di <persName ref="#ciagatai"
+                     >Ciagati</persName>, ch’era fratello del <term ref="#grantKaan">Gran
+                     Chaam</term>, e andò bene chome diecie miglia huomini di su’ gente, e stette un
+                  tempo in sua corte perch’egli era suo sio ed era troppo gran Signore») and in <ref
+                     type="witlink" target="#c34_VB22">VB 22 15</ref> («Era segnor di questa giente
+                     <persName ref="#nogodar">Nogador</persName>, homo de grandissimo animo, el
+                  qualle, raunatto .Xm. d’i suo’ crudelisimi et animosi homeni, deliberò andare a
+                  vixitar <persName ref="#ciagatai">Gragatin</persName>, el qual era suo parente e
+                  fratello del <term ref="#grantKaan">Gran Chan</term>, segnor de una nobelle
+                  provincia»). In the β group we find it in <ref type="witlink" target="#c35_R1.14"
+                     >R I 14 9</ref> («Et acciò che si sappi quello che vuol dire questo nome di
+                     <term ref="#caraunas">Caraunas</term>, dico che fu uno <persName ref="#nogodar"
+                     >Nugodar</persName>, nepote di <persName ref="#ciagatai">Zagathai</persName>,
+                  fratello del <term ref="#grantKaan">Gran Can</term>, qual <persName
+                     ref="#ciagatai">Zagathai</persName> signoreggiava la <placeName
+                     ref="#grantTurquie">Turchia Maggiore</placeName>»; here, the omission of the
+                  reference to the 10,000 soldiers escorting <persName ref="#nogodar"
+                     >Nogodar</persName> is part of the overall reworking of the digression: see our
+                  commentary to <ref type="witlink" target="#c35_tr35">DM 35 10</ref>). The
+                  narrative transition, on the other hand, appears in <ref type="witlink"
+                     target="#c35_Fr1.35">Fr1 35 22</ref>, in a form identical to the Franco-Italian
+                  one («Et demourant o lui, s’apensa celui <persName ref="#nogodar"
+                     >Nogadar</persName> une grant felonnie et vous dirai comment») and, within the
+                  β group, in <ref type="witlink" target="#c35_R1.14">R I 14 10</ref> («Questo
+                     <persName ref="#nogodar">Nugodar</persName>, stando nella sua corte, si pensò
+                  di voler anchor lui signoreggiar, et però» [&lt; Z?]), while all other redactions
+                  generally reduce it to its first part only: see <ref type="witlink"
+                     target="#c34_VA22">VA 22 21</ref> («E stete uno tenpo in sua chorte e po’ se
+                  partì»), <ref type="witlink" target="#c34_VB22">VB 22 16</ref> («E demorado con
+                  lui per algun tenpo, adoperò per modo ch’el desvià .Xm. omeni d’arme») and <ref
+                     type="witlink" target="#c34_V20">V 20 19-21</ref> («Lo re de questi vien
+                  chiamado <persName ref="#nogodar">Negodar</persName>. Et questo una volta andò ala
+                  chorte de <persName ref="#ciagatai">Agati</persName>, fradelo del <term
+                     ref="#grantKaan">Gran Chan</term>, chon diexemilia omeni dela so zente, et
+                  stete chon elo perché lui era so barba. Et stando questo <persName ref="#nogodar"
+                     >Negodar</persName> chon questo suo barba, uno zorno questo se partì»). </note>
+            </app>
+            <app from="#c35_tr35_p10">
+               <note>Our translation follows <ref type="witlink" target="#c35_F35">F 35 16</ref>
+                  exactly («Il se parti da son uncle <persName ref="#ciagatai">Ciagatai</persName>,
+                  ke en la <placeName ref="#grandeArminie">Grant Arminie</placeName> estoit, et
+                  s’enfui bien cun .Xm. de se gens, qe mout estoient cruelz et fellonç, et s’en
+                  passe por <placeName ref="#badascian">Badasian</placeName>et por une provence que
+                  s’apelle <placeName ref="#pasciai">Pasciai</placeName> et por un’autre provence
+                  ‹que› a a nom <placeName ref="#kesimur">Chesciemur</placeName>, et el l’an perdi
+                  maintes des ses jens et de ses bestes, por ce ke les voies estoient estroites et
+                  mauveises») and the Middle-French text is very close to it (<ref type="witlink"
+                     target="#c35_Fr1.35">Fr1 35 23</ref> «Il se parti de son oncle, qui en la
+                     <placeName ref="#GrandeArmenie">Grant Ermenie</placeName> estoit, et s’en afuy
+                  avec une quantité de gent a <term ref="#chevauz">cheval</term>, qui moult estoient
+                  cruel, et s’en passa parmi <placeName ref="#badascian">Badasiam</placeName> et par
+                  une autre prouvence qui s’apelle <placeName ref="#pasciai">Pallay</placeName> et
+                  par une autre qui [a a non] <placeName ref="#kesimur">Chesiemar</placeName>, et
+                  iluec perdi maintes de ses gens et de ses bestes, pour ce que les voies sont
+                  estroites et mauvaises»), except for two details: 1. the detailed (and
+                  ‘singularis’) specification about the troops who flee with <persName
+                     ref="#nogodar">Nogodar</persName>, described in Fr as «gent a <term
+                     ref="#chevauz">cheval</term>» (in the Middle-French redaction the same peculiar
+                  ‘addendum’ also characterises, just above, the description of the soldiers that
+                  had accompanied <persName ref="#nogodar">Nogodar</persName> to <persName
+                     ref="#ciagatai">Chaghadai</persName>’s court: <ref type="witlink"
+                     target="#c35_Fr1.35">Fr1 35 21</ref> «avec lui bien .X.M. hommes a <term
+                     ref="#chevauz">cheval</term> de sa gent»); 2. the omission of the exact number
+                  of soldiers and of the possessive adjective relating to them (Fr «s’en afuy avec
+                  une quantité de gent a <term ref="#chevauz">cheval</term>» vs F «Il se parti […]
+                  cun .Xm. de se gens»); maybe this is an attempt to resolve the ambiguity of this
+                  passage. This ambiguity – which probably goes back to the archetype – derives on
+                  the one hand from the repetition, within a few lines, of the number ‘10,000’
+                  referring to Nogodar’s soldiers: according to F and other redactions, <persName
+                     ref="#nogodar">Nogodar</persName> reaches <persName ref="#ciagatai"
+                     >Chaghadai</persName>’s court with 10,000 men (see our commentary to <ref
+                     type="witlink" target="#c35_tr35">DM 35 9</ref>) and leaves it with just as
+                  many (as regards the close relationship, in the <hi rend="italic">Devisement dou
+                     monde</hi>, between the number ‘10,000’ and the <term ref="#caraunas"
+                     >Qara’unas</term>, see <ref type="bibl" target="#yule_cordier_1929"
+                     >Yule-Cordier 1929, 1: 101</ref>). On the other, it stems from the ambivalence
+                  of the possessive adjective in the Franco-Italian text («se gens» whose?). In
+                  other words, who exactly are the ten thousand men with whom <persName
+                     ref="#nogodar">Nogodar</persName> flees from his uncle’s court? Are they the
+                  same ones with whom he had arrived, or are they <persName ref="#ciagatai"
+                     >Chaghadai</persName>’s soldiers which <persName ref="#nogodar"
+                     >Nogodar</persName> ‘steals’ from him? The tricky nature of the text in this
+                  passage has led to different solutions being adopted in the tradition of the text.
+                     <ref type="witlink" target="#c34_V20">V 20 21</ref> is very close to F («Et
+                  stando questo <persName ref="#nogodar">Negodar</persName> chon questo suo barba,
+                  uno zorno questo se partì da ‘sto so barba <persName ref="#ciagatai"
+                     >Agati</persName> chon diexemilia homeni dela so zente quali erano molto
+                  chrudelissimi»), while <ref type="witlink" target="#c34_VA22">VA 22 21-22</ref>
+                  omits both the number and the possessive, as does Fr («E stete uno tenpo in sua
+                  chorte e po’ se partì della chorte de <persName ref="#ciagatai"
+                     >Chiagati</persName> chon gran zente, e quella zente che andò con lui era
+                  chrudelisimi e felloni», but see below the variant of TB). Some redactions instead
+                  explicitly refer to the ‘theft of troops’ committed by <persName ref="#nogodar"
+                     >Nogodar</persName> against his uncle: this is so in <ref type="witlink"
+                     target="#c35_TB40">TB 40 2</ref> («E quando egli fu stato nella corte di
+                     <persName ref="#ciagatai">Cugati</persName>, egli se n’andò con gran gente di
+                  quel re, lo quale era gito in <placeName ref="#GrandeArmenie">Erminia
+                     magiore</placeName>, e quegli che andaro chò llui erano huomini crudelissemi e
+                  felloni»), <ref type="witlink" target="#c34_VB22">VB 22 16</ref> («E demorado con
+                  lui per algun tenpo, adoperò per modo ch’el desvià .Xm. omeni d’arme dela più
+                  fiorita brigata avese <persName ref="#ciagatai">Gragatin</persName> suo parente,
+                  et con questi .XXm. valorosi et audaci omeni se ne fuçì»; here, the mathematical
+                  sum of the two armies underlines the redactor’s interpretation) and finally in
+                     <ref type="witlink" target="#c35_R1.14">R I 14 10</ref> («et però, sentendo che
+                     nell’<placeName ref="#ynde">India</placeName> vi era una provincia chiamata
+                     <placeName ref="#melibar">Malabar</placeName>, sotto ad un re nominato
+                     <persName ref="#asidinSoldam">Asidin</persName>
+                  <term ref="#soldan">soldano</term>, la qual non era soggiogata al dominio de’
+                     <term ref="#tartars">Tartari</term>, sottrasse circa diecimila huomini, di
+                  quelli ch’egli pensava esser peggiori et piú crudeli»). In Ramusio’s redaction,
+                  this pericope should be noted for some characteristic variants: 1. an ‘addendum’
+                  in which the reasons that encouraged <persName ref="#nogodar">Nogodar</persName>
+                  to invade <placeName ref="#ynde">India</placeName> are clearly explained
+                  («sentendo che nell’<placeName ref="#ynde">India</placeName> vi era una provincia
+                  chiamata <placeName ref="#melibar">Malabar</placeName>, sotto ad un re nominato
+                     <persName ref="#asidinSoldam">Asidin</persName>
+                  <term ref="#soldan">soldano</term>, la qual non era soggiogata al dominio de’
+                     <term ref="#tartars">Tartari</term>»; for the question of the toponym
+                     <placeName ref="#melibar">Malabar</placeName> [R] vs <placeName ref="#dilivar"
+                     >Dilivar</placeName> and its variants in all other redactions, cf. <ref
+                     type="bibl" target="#yule_cordier_1929">Yule-Cordier 1929, 1: 104-5</ref>; <ref
+                     type="bibl" target="#pelliot_1959-1973">Pelliot 1959-1973, 626</ref>; <ref
+                     type="bibl" target="#mascherpa_2015">Mascherpa 2015, commentary to the
+                     pericope</ref>); 2. a short textual insertion aimed at highlighting the secrecy
+                  of <persName ref="#nogodar">Nogodar</persName>’s escape («et con questi partendosi
+                  da suo barba <persName ref="#ciagatai">Zagathai</persName> senza fargli intender
+                  cosa alcuna, passò per Balaxan»); 3. the omission of Pashai from the list of
+                  regions the rebel prince passed through (in F and in the whole α group we find
+                     <placeName ref="#badascian">Badakhshan</placeName>, <placeName ref="#pasciai"
+                     >Pashai</placeName> and <placeName ref="#kesimur">Kashmir</placeName>, while in
+                     <ref type="witlink" target="#c35_R1.14">R I 14 10</ref> we read «senza fargli
+                  intender cosa alcuna, passò per <placeName ref="#badascian">Balaxan</placeName> et
+                  per certa provincia chiamata <placeName ref="#kesimur">Chesmur</placeName>, dove
+                  perse molte delle sue genti»). The last two variants are also to be found in <ref
+                     type="witlink" target="#c34_V20">V 20 22</ref> («Senza alguna providenzia pasò
+                  per <placeName ref="#badascian">Sobasain</placeName>, per la provinzia de
+                     <placeName ref="#kesimur">Chisuamor</placeName>, et prese – error for ‘perse’ –
+                  molta zente e animali»): see the commentary to the pericope in <ref type="bibl"
+                     target="#simion_2019">Simion 2019, 392-3</ref>. In the Toledan manuscript these
+                  lines are missing. Finally, it is interesting to note that, within the α group,
+                  the Fr and VA families – which are not close to each other in the ‘stemma codicum’
+                  – share an error in the writing of the toponym <placeName ref="#kesimur"
+                     >Kashmir</placeName>: cf. <ref type="witlink" target="#c35_Fr1.35">Fr1 35
+                     23</ref> («qui a non <placeName ref="#kesimur">Aarion Chesiemar</placeName>»),
+                     <ref type="witlink" target="#c35_Fr2.35">Fr2 35 21</ref> («qui a non <placeName
+                     ref="#kesimur">Ariora Chiesiema</placeName>»), <ref type="witlink"
+                     target="#c34_VA22">VA 22 22</ref> («per ‹una› che è apellata
+                  Arionichisorennor») and <ref type="witlink" target="#c35_TB40">TB 40 3</ref> («per
+                  una ch’à nome <placeName ref="#kesimur">Aaron Chesiemur</placeName>»), etc. These
+                  deviations from the correct form of the toponym probably occurred in the
+                  Franco-Italian subarchetype of the α group, and clearly depend on a dittography
+                  (*‘a a nom a a nom <placeName ref="#kesimur">Chesciemur</placeName>’ > ‘à a non
+                     <placeName ref="#kesimur">Ariora Chiesiema</placeName>’, etc.: cf. <ref
+                     type="bibl" target="#pelliot_1959-1973">Pelliot 1959-1973, 1: 242</ref>). The
+                  fact that some witnesses of Fr family show the correct text (<ref type="bibl"
+                     target="#menard_2001-2009">Ménard 2001-2009, I, 250</ref>) suggests that it was
+                  not difficult, for some copyists, to correct the error. </note>
+            </app>
+            <app from="#c35_tr35_p11">
+               <note>Our translation follows <ref type="witlink" target="#c35_F35">F 35 17-19</ref>
+                  («Et quant il unt toutes cestes provences passé, il entrent en <placeName
+                     ref="#ynde">Yndie</placeName>, en lo confin a une provence qui est apellés
+                     <placeName ref="#dilivar">Dilivar</placeName>; il pristent une noble cité que a
+                  a nom <placeName ref="#diliDilivar">Dili Dilivar</placeName>. Et demore en cele
+                  cité et pri le |16c| regne qu’il colli a un roi, que avoit a nom <persName
+                     ref="#asidinSoldan">Asidin Soldan</persName>, que mout estoit grant et riche.
+                  Et iluec demore <persName ref="#nogodar">Nugodar</persName> cun seç jens, et no a
+                  doutre de nelui; il fait ghere a tous les autres <term ref="#tartars"
+                     >Tartarç</term> que environ son reingne demorent») except for the textual
+                  segment «et pri [‘conquered’? ms. ‘pro’] le regne», to which we have preferred the
+                  variant with the prepositional phrase of place which is found in <ref
+                     type="witlink" target="#c35_Fr1.35">Fr1 35 24</ref> («et demoura en cele cité
+                  et par celui regne») and in the VA family (cf. <ref type="witlink"
+                     target="#c34_VA22">VA 22 24</ref> «demorà in quella zità per lo regniame» and
+                     <ref type="witlink" target="#c35_TB40">TB 40 4</ref> «e dimora in quella cità e
+                  per lo reame»), while the V version (containing a slightly abridged text),
+                  together with VB and R (who rework the text), omits this detail. On the other
+                  hand, the erroneous variant of F (i.e. ‘pro’) could be interpreted as a
+                  paleographic misunderstanding of the Franco-Italian preposition ‘por’ (&lt; PER),
+                  widely used throughout the Parisian text (for instance, a few lines above, in <ref
+                     type="witlink" target="#c35_F35">F 35 16</ref> we have «et s’en passe por
+                     <placeName ref="#badascian">Badasian</placeName>et por une provence que
+                  s’apelle <placeName ref="#pasciai">Pasciai</placeName> et por un’autre provence
+                  ‹que› a a nom <placeName ref="#kesimur">Chesciemur</placeName>») . At the
+                  beginning of the pericope, some redactions belonging to the α group contain the
+                  variant «prises» Fr / «prexe» VA / «conquistato» VB (<ref type="witlink"
+                     target="#c35_Fr2.35">Fr2 35 23</ref> «Et quant il ot toutes ces provinces
+                  prises [Fr1 ‘princes’], il entra en <placeName ref="#ynde">Ynde</placeName>», <ref
+                     type="witlink" target="#c34_VA22">VA 22 23</ref> «Quando el ave prexe tute
+                  queste provinzie, el intrò in <placeName ref="#ynde">India</placeName>», <ref
+                     type="witlink" target="#c35_TB40">TB 40 4</ref> «E quando egli ebe prese tutte
+                  queste provincie, egli intrò in <placeName ref="#ynde">India</placeName>» and <ref
+                     type="witlink" target="#c34_VB22">VB 22 18</ref> «e conquistato ch’ebe tute
+                  dite provincie, entrò nel’<placeName ref="#ynde">India</placeName>»), which is to
+                  be considered erroneous for three reasons: 1. the articulation of the ‘stemma
+                  codicum’: <ref type="witlink" target="#c35_F35">F 35 17</ref> has «pisté» (error
+                  for «passé», or ‘pounded, trodden, i.e. crossed by feet’), <ref type="witlink"
+                     target="#c34_V20">V 20 23</ref> «abiando passati»; 2. the lexical context in
+                  which the word is placed, where «prises» could have been produced by «pristent» or
+                  «prist», which follow immediately after(cf. F «pristent un noble cité», Fr «prist
+                  la cité», etc.); 3. the overall meaning of the text: <persName ref="#nogodar"
+                     >Nogodar</persName> does not conquer the three provinces of <placeName
+                     ref="#badascian">Badakhshan</placeName>, <placeName ref="#pasciai"
+                     >Pashai</placeName> and <placeName ref="#kesimur">Kashmir</placeName>; he
+                  simply crosses them to reach <placeName ref="#ynde">India</placeName>. In the β
+                  group, <ref type="witlink" target="#c34_V20">V 20 23</ref> is aligned with the
+                  tradition («Et abiando passati questa provinzia che à nome <placeName
+                     ref="#dilivar">Dilivra</placeName>, tolse quele zità de <placeName
+                     ref="#diliDilivar">Delivra</placeName> et romaxe in quela; e tolse el reame de
+                  uno che avea nome <persName ref="#asidinSoldam">Asendi soldan</persName>, el quale
+                  era molto richo e possente; et chon quela zente romaxe in quel luogo et feva guera
+                  a tute persone zirchostante al muodo ve ò dito di sopra, ché lui non temeva alguna
+                  persona»), except for a little omission at the beginning of the pericope (maybe
+                  due to a <hi rend="italic">saut du même au même</hi> on the term «provinzia»).
+                     <ref type="witlink" target="#c35_R1.14">R I 14 10-11</ref>, on the other hand,
+                  offers a reworked version of the text («et finalmente entrò nella provincia di
+                     <placeName ref="#melibar">Malabar</placeName> et prese per forza una città
+                  detta <placeName ref="#diliDilivar">Dely</placeName>, et tolse molte altre città
+                  circonstanti al detto <persName ref="#asidinSoldam">Asidin</persName>, perché li
+                  sopravenne alla sprovista. Et qui cominciò a regnare»), perhaps derived from
+                  source Z used by Ramusio. Unfortunately, the Toledan manuscript is incomplete here
+                  (cf. <ref type="witlink" target="#c35_Z14">Z 14 20-30</ref>), and this prevents us
+                  from verifying the hypothesis. </note>
+            </app>
+            <app from="#c35_tr35_p12">
+               <note>Our translation closely follows <ref type="witlink" target="#c35_F35">F 35
+                     20-21</ref> («Or voç ai contés de ceste plaingne et de les gens que font fer la
+                  scurité por rober. Et se voç di que messier <persName ref="#marcoPolo"
+                     >March</persName> meesme fu {cel} come pris da celle gens en celle oscurité,
+                  mes il escampé a un castiaus qui est apellés <placeName ref="#canosalmi"
+                     >Canosalmi</placeName>; et de seç conpains furent pris aseç et furent vendus et
+                  de tielz mors. Or voç conteronç avant des autres chouses»), whose text is
+                  substantially confirmed by the whole tradition (α + β), except for the omission,
+                  in almost all redactions, of the narrative transitions that are placed at the
+                  beginning and at the end of the pericope («Or voç ai contés [...] por rober», «Or
+                  voç conteronç [...] chouses»): likewise in <ref type="witlink" target="#c35_L29">L
+                     29 9</ref>, <ref type="witlink" target="#c35_R1.14">R I 14 14</ref>, <ref
+                     type="witlink" target="#c35_TA35">TA 35 12</ref>, <ref type="witlink"
+                     target="#c34_V20">V 20 24</ref>, <ref type="witlink" target="#c34_VB22">VB 22
+                     21</ref>, <ref type="witlink" target="#c35_Z14">Z 14 29-30</ref> and in the VA
+                  family (where <ref type="witlink" target="#c35_P1.22">P I 22</ref> eliminates both
+                  transitions, while <ref type="witlink" target="#c35_TB41">TB 41 1</ref> and <ref
+                     type="witlink" target="#c34_VA22">VA 22 26-27</ref> only the closing one). As
+                  often happens, Fr is the closest redaction to the Franco-Italian one; however it
+                  is the only one to show a ‘singularis’ addition regarding the fairly small number
+                  of <persName ref="#marcoPolo">Marco Polo</persName>’s companions who escaped from
+                  the <term ref="#caraunas">Qara’unas</term>’ raid together with the Venetian: cf.
+                     <ref type="witlink" target="#c35_Fr1.35">Fr1 35 26-27</ref> («Or vous ai conté
+                  de ces males gens et de leur afaires, si vous [di] que mesires <persName
+                     ref="#marcoPolo">Marc Pol</persName> meïsmes fu pris [de] cele gent en cele
+                  oscurté; mais si comme Diex vout, il se bouta el chastel qui pres d’iluec estoit,
+                  qui a a non <placeName ref="#canosalmi">Cahosabuy</placeName>, et perdi toute sa
+                  compaignie, qu’i n’eschapa avec lui que .IIII. personnes. Or vous ai conté si
+                  comme il avint, si yrons avant et vous conterons des autres choses»). Finally,
+                  apropos of a peculiar variant of redaction V, where it is told that <persName
+                     ref="#marcoPolo">Marco Polo</persName> was captured by the <term
+                     ref="#caraunas">Qara’unas</term> «in ’sta pianura», instead of «en celle
+                  oscurité» F, ‘oscurté’ Fr, etc. (<ref type="witlink" target="#c34_V20">V 20
+                     24</ref> «Onde ve dicho che pocho manchò che non fosse prexo misier <persName
+                     ref="#marcoPolo">Marcho Polo</persName> da questa zente in ’sta pianura»), see
+                  the commentary by <ref type="bibl" target="#simion_2019">Simion 2019, 393</ref>.
+               </note>
+            </app>
+         </listApp>
+      </body>
+   </text>
+</TEI>

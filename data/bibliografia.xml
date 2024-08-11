@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bibliography for "I viaggi di Messer Polo"</title>
+            <respStmt>
+               <resp>Edited by</resp>
+               <name xml:id="eugenio">Eugenio Burgio</name>
+               <name xml:id="samuela">Samuela Simion</name>
+            </respStmt>
+            <respStmt>
+               <resp>Text modelling and encoding by</resp>
+               <name xml:id="elisa">Elisa Cugliana</name>
+            </respStmt>
+            <respStmt>
+               <resp>Collaboration to the encoding by</resp>
+               <name ref="#samuela">Samuela Simion</name>
+               <name xml:id="silvia">Silvia Marsili</name>
+            </respStmt>
+            <respStmt>
+               <resp>Software developing by</resp>
+               <name xml:id="chiara">Chiara Martignano</name>
+            </respStmt>
+            <respStmt>
+               <resp>Project coordination by</resp>
+               <name xml:id="marina">Marina Buzzoni</name>
+               <name ref="#eugenio">Eugenio Burgio</name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <listBibl xml:id="MP_listBibl">
+            <bibl xml:id="eusebi_burgio_2018">Burgio, Eugenio, and Mario Eusebi. 2018. Marco Polo:
+               Le Devisement Dou Monde, 2. Glossario. Filologie Medievali e Moderne 16. Venezia:
+               Edizioni Ca’ Foscari (Filologie medievali e moderne; 16, Serie occidentale; 13).
+               https://www.worldcat.org/title/1121299164. </bibl>
+            <bibl xml:id="simion_2019">Simion, Samuela. 2019. ‘Tra Sapere Tradizionale e
+               Osservazione Diretta: Marco Polo e La Salamandra-Asbesto’. In La Strada per Il Catai:
+               Contatti Tra Oriente e Occidente al Tempo Di Marco Polo, edited by Alvise Andreose,
+               131–48. La via de La Seta 5. Milano: Edizioni Angelo Guerini e Associati.
+               https://worldcat.org/it/title/1176156894. </bibl>
+            <bibl xml:id="mascherpa_2008">Mascherpa, Giuseppe. 2008. ‘San Tommaso in India:
+               L’apporto Della Tradizione Indiretta Alla Costituzione Dello Stemma Del Milione’. In
+               Prassi Ecdotiche: Esperienze Editoriali Su Testi Manoscritti et Testi a Stampa;
+               Milano, 7 Giugno e 31 Ottobre 2007, edited by Alberto Cadioli and Paolo Chiesa,
+               171–84. Quaderni Di Acme; Università Degli Studi Di Milano, Facoltà Di Lettere e
+               Filosofia 103. Milano: Cisalpino. https://worldcat.org/it/title/799753607. </bibl>
+            <bibl xml:id="simion_burgio_2015">Simion, Samuela, and Eugenio Burgio, eds. 2015.
+               Giovanni Battista Ramusio: Dei Viaggi Di Messer Marco Polo, Edizione Critica Digitale
+               Progettata e Coordinata Da Eugenio Burgio, Marina Buzzoni, and Antonella Ghersetti.
+               Venezia: Edizioni Ca’ Foscari.
+               http://virgo.unive.it/ecf-workflow/books/Ramusio/main/index.html. </bibl>
+            <bibl xml:id="pelliot_1959-1973">Pelliot, Paul. 1959-1973. Notes on Marco Polo. 3 vols.
+               Paris: Imprimerie Nationale, Librairie Adrien-Maisonneuve.
+               https://worldcat.org/it/search?q=Notes+on+Marco+Polo&amp;itemSubType=book-printbook&amp;author=Pelliot%2C+Paul&amp;datePublished=1958-1964. </bibl>
+            <bibl xml:id="andreose_2017">Alvise Andreose, Su un termine poliano di origine
+               veneziana: peitere (Devisement dou monde, LXXXV, 11), in «Quaderni Veneti», n.s., 6,
+               1, 2017, 27-42.</bibl>
+            <bibl xml:id="yule_cordier_1929">Yule, Henry, and Henri Cordier (edited by). 1929. The
+               Book of Ser Marco Polo the Venetian, Concerning the Kingdoms and Marvels of The East.
+               2 vols., 2nd ed. London: Murray.</bibl>
+            <bibl xml:id="mascherpa_2015">Mascherpa, Giuseppe. 2015. ‘Le Fonti Di Ramusio e Il Loro
+               Trattamento Nella Compilazione de I Viaggi Di Messer Marco Polo: Il Libro I’. In
+               Giovanni Battista Ramusio: Dei Viaggi Di Messer Marco Polo (Edizione Critica
+               Digitale), edited by Eugenio Burgio and Samuela Simion.
+               http://virgo.unive.it/ecf-workflow/books/Ramusio/main/index.html.</bibl>
+            <bibl xml:id="menard_2001-2009">Ménard, Philippe, ed. 2001_2009. Marco Polo; Le
+               Devisement Du Monde. 6 vols. Genève: Librairie Droz S.A. (Textes littéraires
+               français).</bibl>
+            <bibl xml:id="cardona_1975">Cardona, Giorgio Raimondo. 1975. ‘Indice Ragionato’. In
+               Marco Polo, Milione. Versione Toscana Del Trecento, by Valeria Bertolucci Pizzorusso,
+               591–760. Milano: Adelphi Edizioni. </bibl>
+            <bibl xml:id="kinoshita_2016">Kinoshita, Sharon. 2016. Marco Polo: The Description of
+               the World. Indianapolis: Hackett Publishing Company.
+               https://www.worldcat.org/it/title/932003519. </bibl>
+            <bibl xml:id="houtsma_1886">Martin Th. Houtsma. 1886. Recueil de textes relatifs à l'histoire
+               des Seljoucides. Vol. 1. Lugduni, Bataborum: E.J. Brill.</bibl>
+            <bibl xml:id="leStrange_1966">Le Strange, Guy. 1966. The Lands of the Eastern Caliphate.
+               2a ed. London; Liverpool: Frank Cass &amp; Co.</bibl>
+            <bibl xml:id="bosworth_2012"/>
+            <bibl xml:id="schwarz_1969">Schwarz, Paul. 1969. Iran im Mittelalter nach den arabischen
+               Geographen, 2nd ed. Hildesheim; New York: G. Olms.</bibl>
+         </listBibl>
+      </body>
+   </text>
+</TEI>

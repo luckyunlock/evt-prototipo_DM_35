@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>VA</title>
+                <respStmt>
+                    <resp>Edited by</resp>
+                    <name xml:id="eugenio">Eugenio Burgio</name>
+                    <name xml:id="samuela">Samuela Simion</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Project coordination by</resp>
+                    <name ref="#eugenio">Eugenio Burgio</name>
+                    <name xml:id="marina">Marina Buzzoni</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Text modelling and encoding by</resp>
+                    <name xml:id="elisa">Elisa Cugliana</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Software developing by</resp>
+                    <name xml:id="chiara">Chiara Martignano</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body xml:id="v_VA_body" xml:lang="it">
+            <div type="chapter" n="22" xml:id="c34_VA22" corresp="#c34_tr34 #c35_tr35">
+                
+                <head>
+                    <hi rend="bold">#22</hi>
+                    <lb/>Della grande desexa et del pian dove è grandisimi <term ref="#buef">boi</term> e
+                    <term ref="#monton">moltoni</term>. </head>
+                
+                <p n="1" xml:id="c34_VA22_par1">
+                    <seg xml:id="c34_VA22_p1" n="1">E quando l’omo se parte dala zità de <placeName
+                        ref="#crermain">Chrerina</placeName>, el chavalcha sete <term ref="#journee"
+                            >zornade</term> trovando senpre zità e chastelle e abitazion asai. </seg>
+                    <seg xml:id="c34_VA22_p2" n="2">Et è tropo bon chavalchar per quela contrà, et è bon
+                        solazo; el se ge prende <term ref="#perdris">pernixe</term> assai. </seg>
+                    <seg xml:id="c34_VA22_p3" n="3">E quando l’omo à chavalchato sete <term
+                        ref="#journee">zornate</term> per quella pianura, e alora si trova una
+                        grandenisima disexa, sì se chavalcha ben do <term ref="#journee">zornate</term>
+                        pur al declino – trovando tuta fiata grande abondanzia d’arbori asai che fano
+                        fruti –, che per anticho tenpo ne fo de gran abitazion, ma non ne abita niun se
+                        non alchun che paseno suo bestiame. </seg>
+                    <seg xml:id="c34_VA22_p4" n="4"> Della zità de <placeName ref="#crermain"
+                        >Chrerina</placeName> defina questa desexa è sì gran fredo l’inverno che apena
+                        se ne pò schanpar, chon tuto ziò che l’omo abia de molti <term ref="#drap"
+                            >pani</term>.</seg>
+                </p>
+                
+                <p n="2" xml:id="c35_VA22_par2">
+                    <seg xml:id="c35_VA22_p5" n="5">Quando l’omo è disexo quelle do <term ref="#journee"
+                        >zornate</term> che ò dite de sopra, trova una grandenisima pianura, e [al]
+                        chomenzamento de quel pian è una zità che à nome <placeName ref="#camandi"
+                            >Chomandi</placeName>, la qual fu ‹per› anticho tenpo molto nobille e grande,
+                        ma ora nonn è chusì: perché i <term ref="#tartars">Tartari</term> d’altro paixe li
+                        àno fato spesse fiate gran dalmazo. </seg>
+                    <seg xml:id="c35_VA22_p6" n="6">Quello piano è molto chaldo luogo. </seg>
+                    <seg xml:id="c35_VA22_p7" n="7"> La provinzia à nome <placeName ref="#reobar"
+                        >Irobarle</placeName>; soi fruti sono <term ref="#dattal">datali</term> e <term
+                            ref="#pomeParais">pomi del paradixo</term> e <term ref="#pistac"
+                                >pistachi</term>, e trova-sse altri fruti assai, i qual non se trova in nostre
+                        chontrade per la fredura ch’è in le parte de zia. </seg>
+                    <seg xml:id="c35_VA22_p8" n="8">In questo piano è una zenerazion d’oxelli che sono
+                        apellati <term ref="#francolin">francholini</term>, ch’è molto divixati da questi
+                        de nostra parte. </seg>
+                    <seg xml:id="c35_VA22_p9" n="9">Egli sono negri e bianchi mesedatamente, e àno rossi
+                        li pie’ e ’l becho. </seg>
+                    <seg xml:id="c35_VA22_p10" n="10"> Le bestie de quella contrà altrosì sono molto
+                        deuixati dali nostri: inprimamente i <term ref="#buef">buò</term> sono grandisimi,
+                        tuti bianchi chomo neve, lo pello pizollo e piano, le chorne churte e grosse et
+                        sono achute; entro le spalle àno un g[o] nbo ritondo alto ben do spane: elli èno
+                        ben la plui bella cossa del mondo da veder. </seg>
+                    <seg xml:id="c35_VA22_p11" n="11">E quando egli i vuol chargar, i se inzenochia in
+                        tera chome fano i <term ref="#giamiaus">ganbelli</term>, e quando egli sono
+                        chargadi, sì se lievano in pie’ e portano molto ben el pexo sì che i sono forti
+                        ol|tramodo |14v|. </seg>
+                    <seg xml:id="c35_VA22_p12" n="12">El ge n’è <term ref="#monton">moltoni</term> molto
+                        grandi chome <term ref="#asnes">axeni</term>, e àno la choda sì grossa e sì larga
+                        ch’ella pexa ben XXX livre; e sono molto grassi et èno tropo boni da
+                        manziar.</seg>
+                </p>
+                
+                <p n="3" xml:id="c35_VA22_par3">
+                    <seg xml:id="c35_VA22_p13" n="13">In questo piano è molte zità e chastelle che àno le
+                        mure de tera alti e grossi perché ’li se posano defender dalla malla zente che
+                        sono in quelle parte, che vano robando el paixe e fazando gran dani. </seg>
+                    <seg xml:id="c35_VA22_p14" n="14"> E fì chiamà quella malla zente <term
+                        ref="#caraunas">Charoonasi</term>: ‹l›oro mari ‹sono› d’<placeName ref="#ynde"
+                            >India</placeName> e gli par‹i› èno pur <term ref="#tartars">Tartari</term>. </seg>
+                    <seg xml:id="c35_VA22_p15" n="15">E quelli <term ref="#caraunas">Charoonas</term>,
+                        quando i vono chorer la contrà per robare, egli fano, per inchantamento e per
+                        opera de diavoli, che ’l tenpo chiaro se oschurisse sì chome el fosse de note, sì
+                        che l’omo non pò vedere da lonzi se non pocho; e questa oschurità fano durare sete
+                        dì. </seg>
+                    <seg xml:id="c35_VA22_p16" n="16">E sano molto ben i pasi: e loro chavalchano uno a
+                        pe’ del’altro; e sono alle fiate ben Xm, sì che i fano sì longa schiera ch’el non
+                        pò passar niuno che non sia prexo, perché ’li prendeno chotanto tereno che niuno
+                        non pò schanpar per quel piano. </seg>
+                    <seg xml:id="c35_VA22_p17" n="17">Quando i fano questa cotal chavalchata, e prendeno
+                        homeni e bestie. </seg>
+                    <seg xml:id="c35_VA22_p18" n="18"> E quando i àno prexi li homeni, egli alzideno i
+                        vechi, e i gioveni vendeno per schiavi. </seg>
+                    <seg xml:id="c35_VA22_p19" n="19"> Lo re loro è apellato <persName ref="#nogodar"
+                        >Negodar</persName>. </seg>
+                    <seg xml:id="c35_VA22_p20" n="20">Questo <persName ref="#nogodar">Negodar</persName>
+                        andò alla chorte de <persName ref="#ciagatai">Cigati</persName>, ch’era fradel
+                        charnal del Gran Chaan, e andò ben con Xm homeni de soa zente. </seg>
+                    <seg xml:id="c35_VA22_p21" n="21">E stete uno tenpo in sua chorte e po’ se partì
+                        della chorte de <persName ref="#ciagatai">Chiagati</persName> chon gran zente, e
+                        quella zente che andò con lui era chrudelisimi e felloni, e andò in <placeName
+                            ref="#GrandeArmenie">Armenia Mazior</placeName>. </seg>
+                    <seg xml:id="c35_VA22_p22" n="22">E passò questo <persName ref="#nogodar"
+                        >Negodar</persName> chon quella malla zente per <placeName ref="#badascian"
+                            >Baldaxia</placeName> e per un’altra provinzia che à nome <placeName
+                                ref="#pasciai">Paserai</placeName> e per ‹una› che è apellata <placeName
+                                    ref="#kesimur">Arionichisorennor</placeName>, e glì perse molto de soa zente e
+                        de suo’ bestie, perché le vie erano strete e malvaxie. </seg>
+                    <seg xml:id="c35_VA22_p23" n="23">Quando el ave prexe tute queste provinzie, el intrò
+                        in <placeName ref="#ynde">India</placeName> in chonfine d’una provinzia ch’è
+                        apellata <placeName ref="#dilivar">Dilvar</placeName>. </seg>
+                    <seg xml:id="c35_VA22_p24" n="24">E prexe una bona cità che à nome <placeName
+                        ref="#diliDilivar">Dilvar</placeName> e demorà in quella zità per lo regniame
+                        ch’el tolsse a uno re, lo qual era mo[l]to ‹richo›. </seg>
+                    <seg xml:id="c35_VA22_p25" n="25">Ed è in sì forte contrà ch’el non à paura de niun,
+                        nì lu nì soa zente; e fa guera a tuti gli altri <term ref="#tartars"
+                            >Tartari</term> che abitano intorno a lui.</seg>
+                </p>
+                
+                <p n="4" xml:id="c35_VA22_par4">
+                    <seg xml:id="c35_VA22_p26" n="26">Or ve ò chontado de quel piano e de quelle zente
+                        che fa vegnir la oschurità per robar. </seg>
+                    <seg xml:id="c35_VA22_p27" n="27"> E sì ve digo io, <persName ref="#marcoPolo"
+                        >Marcho</persName>, ch’e’ fu’ una fiada in grande pericolo d’eser prexo da
+                        quella zente in quella oschurità, ma e’ schanpì a uno chastello che era lì apresso
+                        avea nome <placeName ref="#canosalmi">Chalosebini</placeName>, ma piuxor dei mie’
+                        conpagni fono prexi, e tali morti e tali fono venduti.</seg>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

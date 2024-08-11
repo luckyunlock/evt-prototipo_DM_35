@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>P</title>
+                <respStmt>
+                    <resp>Edited by</resp>
+                    <name xml:id="eugenio">Eugenio Burgio</name>
+                    <name xml:id="samuela">Samuela Simion</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Project coordination by</resp>
+                    <name ref="#eugenio">Eugenio Burgio</name>
+                    <name xml:id="marina">Marina Buzzoni</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Text modelling and encoding by</resp>
+                    <name xml:id="elisa">Elisa Cugliana</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Software developing by</resp>
+                    <name xml:id="chiara">Chiara Martignano</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body xml:id="v_P_body" xml:lang="la"><div type="chapter" xml:id="c35_P1.22" n="22" corresp="#c35_tr35">
+            <head><hi rend="bold">#22</hi>
+                <lb/>De civitate <placeName ref="#camandi">Camandu</placeName> et regione
+                <placeName ref="#reobar">Reobarle</placeName>. Capitulum 22.</head>
+            <p xml:id="c35_P1.22_par1" n="1">
+                <seg xml:id="c35_P1.22_p1" n="1">Post hec pervenitur ad planiciem maximam ubi est
+                    civitas <placeName ref="#camandi">Camandu</placeName>, que olim civitas magna
+                    fuit, sed nunc a <term ref="#tartars">Tartaris</term> est destructa. </seg>
+                <seg xml:id="c35_P1.22_p2" n="2">Regio autem illa dicitur <placeName ref="#reobar"
+                    >Reobarle</placeName>. </seg>
+                <seg xml:id="c35_P1.22_p3" n="3">Ibi sunt <term ref="#dattal">dactili</term>,
+                    <term ref="#pistac">pistachi</term> et <term ref="#pomeParais">poma
+                        Paradisi</term> in copia maxima, |11b| multique fructus alii crescunt ibi
+                    qui apud nos habentur. </seg>
+                <seg xml:id="c35_P1.22_p4" n="4">Ibi sunt aves qui dicuntur ‘<term
+                    ref="#francolin">francolini</term>’, coloris permixti albi et nigri; rubei
+                    autem coloris habent pedes et rostra. </seg>
+                <seg xml:id="c35_P1.22_p5" n="5"><term ref="#buef">Boves</term> ibi sunt maximi,
+                    pilos albissimos et planos habentes; cornua habent brevia et grossa que acumine
+                    carent; super humeros habent gilbum ut <term ref="#giamiaus">cameli</term>,
+                    fortissimi sunt et onera magna portant, et cum onerari debent incurvant se ut
+                    <term ref="#giamiaus">cameli</term> et, cum onerati fuerint, surgunt sicut
+                    ab hominibus edocti sunt. </seg>
+                <seg xml:id="c35_P1.22_p6" n="6"><term ref="#monton">Arietes</term> ibi sunt
+                    grandes ut <term ref="#asnes">asini</term> qui caudam habent permaxime longam
+                    et latam, ponderis ut plurimum <term ref="#livre">librarum</term> .XXX.;
+                    pingues et pulcri sunt valde, et ad esum optimi. </seg>
+                <seg xml:id="c35_P1.22_p7" n="7">In hac planice multe sunt civitates et oppida, et
+                    habent muros luteos grossos valde et fortes, quia in regione illa multi
+                    predones sunt, qui di| cuntur |11c| ‘<term ref="#caraunas">caraonas’</term> et
+                    habent regem; sunt autem incantatores demonum. Et quando volunt predari
+                    patriam, faciunt diabolica arte aerem obscurari de die in magno spacio adeo ut
+                    nullus eos videre possit, tenentque obscuritatem huiusmodi quandoque diebus
+                    .VII.; et tunc predones illi egredientes ad campos, quandoque numero decem
+                    <term ref="#mil">milia</term>, ordinant se per longas acies unus pariter
+                    iuxta alium in latitudine magna, ita ut rarus sit inde pertransiens qui non
+                    incidat manus eorum: capiunt autem homines et iumenta, vendunt iuvenes et senes
+                    occidunt. </seg>
+                <seg xml:id="c35_P1.22_p8" n="8">Ego <persName ref="#marcoPolo"
+                    >Marchus</persName>, semel dum inde transirem, incidi in illam obscuritatem,
+                    sed quia vicinus eram castro quod dicitur <placeName ref="#canosalmi"
+                        >Canosalim</placeName>, confugi ad ipsum; plures tamen de meis sociis
+                    inciderunt in illos quorum quidam venditi fuerunt, alii vero occisi.</seg>
+            </p>
+        </div>
+        </body>
+    </text>
+</TEI>

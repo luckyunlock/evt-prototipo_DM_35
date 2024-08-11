@@ -1,0 +1,169 @@
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>TB</title>
+                <respStmt>
+                    <resp>Edited by</resp>
+                    <name xml:id="eugenio">Eugenio Burgio</name>
+                    <name xml:id="samuela">Samuela Simion</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Project coordination by</resp>
+                    <name ref="#eugenio">Eugenio Burgio</name>
+                    <name xml:id="marina">Marina Buzzoni</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Text modelling and encoding by</resp>
+                    <name xml:id="elisa">Elisa Cugliana</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Software developing by</resp>
+                    <name xml:id="chiara">Chiara Martignano</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Project coordination by</resp>
+                    <name ref="#marina">Marina Buzzoni</name>
+                    <name ref="#eugenio">Eugenio Burgio</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        
+        <body xml:id="v_TB_body" xml:lang="it">
+            <div type="chapter" xml:id="c35_TB36" corresp="#c35_tr35" n="36">
+                <p xml:id="c35_TB36_par1">
+                    <hi rend="bold">#36</hi>
+                    <lb/>
+                    <seg xml:id="c35_TB36_p1" n="1">Quando l’uomo è disceso queste due <term
+                        ref="#journee">giornate</term> ch’i’ò detto, allora si trova una
+                        grandisima pianura e dal chominciamento di quel piano si à una cità ch’à
+                        nome <placeName ref="#camandi">Chamandi</placeName>, la quale fu per anticho
+                        tempo nobile e grande. </seg>
+                    <seg xml:id="c35_TB36_p2" n="2">Ora no è chosì, perché gli <term ref="#tartars"
+                        >Tartari</term> d’altro paese v’ànno fatto grande danno spesse volte. </seg>
+                    <seg xml:id="c35_TB36_p3" n="3">Quello piano è molto caldo luogho. </seg>
+                    <seg xml:id="c35_TB36_p4" n="4"> La provincia à nome <placeName ref="#reobar"
+                        >Reobarbe</placeName>, suoi fructi sono <term ref="#dattal"
+                            >dactari</term> e <term ref="#pomeParais">mele di paradizo</term> e
+                        <term ref="#pistac">pastacchi</term> e altri fructi assai, li quali non
+                        si trovano in nostra contrada per la freddura ch’è di qua. </seg>
+                    <seg xml:id="c35_TB36_p5" n="5">In questo piano è ia generatione d’ucelli che
+                        sono appellati <term ref="#faicain">francholena</term> che sono molto
+                        divisati dalli <term ref="#francolin">francholini</term> d’altre parti. </seg>
+                    <seg xml:id="c35_TB36_p6" n="6"> Eglino sono neri e bianchi messcholatamente e
+                        ànno rozzi li piedi e lo becho. </seg>
+                    <seg xml:id="c35_TB36_p7" n="7"> Le bestie di quella contrada sono altresì molto
+                        divisate dall’altre.</seg>
+                </p>
+            </div>
+            <div type="chapter" xml:id="c35_TB37" corresp="#c35_tr35" n="37">
+                <p xml:id="c35_TB37_par1">
+                    <hi rend="bold">#37</hi>
+                    <lb/>
+                    <seg xml:id="c35_TB37_p1" n="1">E diròvi de’ <term ref="#buef">buoi</term>
+                        primamente: gli <term ref="#buef">buoi</term> sono grandissimi e sono tutti
+                        bianchi chome neve. </seg>
+                    <seg xml:id="c35_TB37_p2" n="2">Lo pelo ànno piccholo e piano, le corna ànno
+                        corte e grosse e non l’ànno aghute. </seg>
+                    <seg xml:id="c35_TB37_p3" n="3"> Poi entro le spalle ànno i° ghobo ritondo ch’è
+                        alto ben due spanne. </seg>
+                    <seg xml:id="c35_TB37_p4" n="4"> Eglino sono la più bella chosa del mondo a
+                        vedere; e quando l’uomo gli vuole charichare eglino s’inginochiano chome
+                        fanno i <term ref="#giamiaus">chamelli</term>, e quando e’ sono charichati
+                        si levano e portano molto bene lo peso loro, ché sono forti chome <term
+                            ref="#asnes">asini</term>; e ànno la choda sì grossa e sì llargha che
+                        pesa ben trenta libre; e sono molto belli e molto grassi è sono buoni da
+                        mangiare.</seg>
+                </p>
+            </div>
+            <div type="chapter" xml:id="c35_TB38" corresp="#c35_tr35" n="38">
+                <p xml:id="c35_TB38_par1">
+                    <hi rend="bold">#38</hi>
+                    <lb/>
+                    <seg xml:id="c35_TB38_p1" n="1">In questo piano sono molte cità e chastella
+                        ch’ànno le mura di terra alte perché si possono difendere dalla rea gente
+                        ch’è in quelle parti e vanno rubando lo paeze e faccendo molto dampno. </seg>
+                    <seg xml:id="c35_TB38_p2" n="2"> Quella mala gente à nome <term ref="#caraunas"
+                        >Charaunos</term>: le loro madri furono d’<placeName ref="#ynde"
+                            >India</placeName> e loro padri furono <term ref="#tartars"
+                                >Tartari</term>.</seg>
+                </p>
+            </div>
+            <div type="chapter" xml:id="c35_TB39" corresp="#c35_tr35" n="39">
+                <p xml:id="c35_TB39_par1">
+                    <hi rend="bold">#39</hi>
+                    <lb/>
+                    <seg xml:id="c35_TB39_p1" n="1">Quegli <term ref="#caraunas">Charaunos</term>
+                        quando eglino vogliono corer la contrada per rubare, eglino fanno per
+                        inchantamenti e per arte di diavolo, che lo tempo e l’aria si fa schura
+                        chome fosse di notte, sì che l’uomo non può vedere se non pocho di lume e
+                        questa schuritade |9r| fanno talvolta quattro dì. </seg>
+                    <seg xml:id="c35_TB39_p2" n="2">Eglino sanno molto bene gli passi e cavalchano
+                        tutti l’uno a piè dell’altro e sono talvolta ben xm, sì che fanno sì lungha
+                        schiera e pigliano tanto terreno che niuno può passare che non sia preso. </seg>
+                    <seg xml:id="c35_TB39_p3" n="3"> Per quel piano quando egli fanno cotale
+                        chavalchata pigliano huomini e bestie e quando egli ànno presi gli uomini
+                        eglino uccidono tutti li vechi e i giovani vendono per schiavi. </seg>
+                    <seg xml:id="c35_TB39_p4" n="4"> Lo re loro à nome <persName ref="#nogodar"
+                        >Negodar</persName>.</seg>
+                </p>
+            </div>
+            <div type="chapter" xml:id="c35_TB40" corresp="#c35_tr35" n="40">
+                <p xml:id="c35_TB40_par1">
+                    <hi rend="bold">#40</hi>
+                    <lb/>
+                    <seg xml:id="c35_TB40_p1" n="1">Questo <persName ref="#nogodar"
+                        >Negodar</persName> andò a la corte di <persName ref="#ciagatai"
+                            >Ciagati</persName>, ch’era fratello del <term ref="#grantKaan">Gran
+                                Chaam</term>, e andò bene chome diecie miglia huomini di su’ gente, e
+                        stette un tempo in sua corte perch’egli era suo sio ed era troppo gran
+                        signore. </seg>
+                    <seg xml:id="c35_TB40_p2" n="2">E quando egli fu stato nella corte di <persName
+                        ref="#ciagatai">Cugati</persName>, egli se n’andò con gran gente di quel
+                        re, lo quale era gito in <placeName ref="#GrandeArmenie">Erminia
+                            magiore</placeName>, e quegli che andaro cho llui erano huomini
+                        crudelissemi e felloni. </seg>
+                    <seg xml:id="c35_TB40_p3" n="3">E passò questo <persName ref="#nogodar"
+                        >Negodar</persName> con quella mala gente per <placeName
+                            ref="#badascian">Baldazia</placeName> e per un’altra provincia ch’à nome
+                        <placeName ref="#pasciai">Pazia</placeName> e per una ch’à nome
+                        <placeName ref="#kesimur">Aaron Chesiemur</placeName> e perdé molta di
+                        sua gente e di sue bestie, perché le vie e gli passi sono stretti e malvagi. </seg>
+                    <seg xml:id="c35_TB40_p4" n="4">E quando egli ebe prese tutte queste provincie,
+                        egli intrò in <placeName ref="#ynde">India</placeName> in confine d’una
+                        provincia ch’à nome <placeName ref="#dilivar">Diluar</placeName>, e prese
+                        una gità ch’à nome <placeName ref="#dilivar">Diluar</placeName> e dimora in
+                        quella cità e per lo reame che tolse a i° re ch’avea nome <persName
+                            ref="#asidinSoldam">Asidsoldan</persName>, lo quale era molto riccho. </seg>
+                    <seg xml:id="c35_TB40_p5" n="5">Ed è in sì forte contrada che non à paura di
+                        niuno, né egli né sua gente, e fa guerra a tutti gli altri <term
+                            ref="#tartars">Tartari</term> che abitano presso a llui.</seg>
+                </p>
+            </div>
+            <div type="chapter" xml:id="c35_TB41" corresp="#c35_tr35" n="41">
+                <p xml:id="c35_TB41_par1">
+                    <hi rend="bold">#41</hi>
+                    <lb/>
+                    <seg xml:id="c35_TB41_p1" n="1">Or ò contato di quel piano e della gente che fa
+                        venire la schurità per rubare, e ssì vi dicho ch’io <persName
+                            ref="#marcoPolo">Marcho</persName> fui una volta a grande pericolo
+                        d’essere preso da quella gente in quella schurità, ma io champai a uno
+                        castello presso quine, ch’à nome <placeName ref="#canosalmi"
+                            >Cholasaban</placeName>, ma assai de’ miei compagni furono presi è tali
+                        morti e tali venduti.</seg>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>

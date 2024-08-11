@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>TA</title>
+                <respStmt>
+                    <resp>Edited by</resp>
+                    <name xml:id="eugenio">Eugenio Burgio</name>
+                    <name xml:id="samuela">Samuela Simion</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Project coordination by</resp>
+                    <name ref="#eugenio">Eugenio Burgio</name>
+                    <name xml:id="marina">Marina Buzzoni</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Text modelling and encoding by</resp>
+                    <name xml:id="elisa">Elisa Cugliana</name>
+                </respStmt>
+                <respStmt>
+                    <resp>Software developing by</resp>
+                    <name xml:id="chiara">Chiara Martignano</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body xml:id="v_TA_body" xml:lang="it">
+            <div type="chapter" n="35" xml:id="c35_TA35" corresp="#c35_tr35">
+                <head>
+                    <hi rend="bold">#35</hi>
+                    <lb/> Di <placeName ref="#camandi">Camandi</placeName>. </head>
+                <p n="1" xml:id="c35_TA35_par1">
+                    <seg xml:id="c35_TA35_p1" n="1">A la discesa de la montagna àe uno bello piano,
+                        e nel cominciamento àe una città ch’à nome <placeName ref="#camandi"
+                            >Camandi</placeName>. </seg>
+                    <seg xml:id="c35_TA35_p2" n="2">Questa solea essere magiore terra che no è, ché
+                        <term ref="#tartars">Tartari</term> d’altra parte gli ànno fatto danno
+                        più volte. </seg>
+                    <seg xml:id="c35_TA35_p3" n="3">Questo piano è molto cavo. </seg>
+                    <seg xml:id="c35_TA35_p4" n="4"> E questo reame à nome <placeName ref="#reobar"
+                        >Reobales</placeName>; suoi frutti sono <term ref="#dattal"
+                            >dattari</term>, <term ref="#pistac">pistacchi</term>, <term
+                                ref="#pomeParais">frutti di paradiso</term> e altri frutti che non son
+                        di qua. </seg>
+                    <seg xml:id="c35_TA35_p5" n="5">Ànno <term ref="#buef">buoi</term> grandi e
+                        bianchi come nieve, col pelo piano per lo caldo luogo, le corne cort’e
+                        grosse e non agute; tra le spalle ànno uno gobbo alto due palmi, e sono la
+                        più bella cosa del mondo a vedere. </seg>
+                    <seg xml:id="c35_TA35_p6" n="6">Quando si vogliono caricare, si conciano come
+                        <term ref="#giamiaus">camegli</term>, e caricati così, si levano, ché
+                        sono forti oltra misura. </seg>
+                    <seg xml:id="c35_TA35_p7" n="7">E v’à <term ref="#monton">montoni</term> come
+                        <term ref="#asnes">asini</term>, che·lli pesa la coda bene XXX <term
+                            ref="#livre">libbre</term>, e sono bia‹n›chi e begli e buoni da
+                        mangiare. </seg>
+                    <seg xml:id="c35_TA35_p8" n="8">In questo piano à castella e città e ville
+                        murate di terra per difender‹si› da scherani che vanno ro‹b›ando. </seg>
+                    <seg xml:id="c35_TA35_p9" n="9"> E questa gente che corre lo paese, per
+                        incantamento fanno parere notte VII <term ref="#journee">giornate</term> a
+                        la lunga, perché altri non si possa guardare; quando ànno fatto questo,
+                        vanno per lo paese, ché bene lo sanno. </seg>
+                    <seg xml:id="c35_TA35_p10" n="10"> E’ son bene Xm, talvolta più e meno, sicché
+                        per quello piano no li scampa né uomo né bestia: li vecchi ucidono, gli
+                        giovani ménagli a vendere per ischiavi. </seg>
+                    <seg xml:id="c35_TA35_p11" n="11"> Lo loro re à nome <persName ref="#nogodar"
+                        >Nogodar</persName>, e sono gente rea e malvage e crudele. </seg>
+                    <seg xml:id="c35_TA35_p12" n="12">E sì vi dico che messer <persName
+                        ref="#marcoPolo">Marco</persName> vi fu tal qual preso in quella
+                        iscuritade, ma scampò a uno castello ch’à nome <placeName ref="#canosalmi"
+                            >Canosalmi</placeName>, e de’ suo’ compagni furo presi asai e venduti e
+                        morti.</seg>
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>
